@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--JFWGMgo12lZNUWqLE2q8w" name="new_tool,_LLfu0P9vEeGYqaC-voeltA" guid="--JFWGMgo12lZNUWqLE2q8w">
+  <mainDescription>Esta ferramenta possibilita a criação automática dos aspectos de rastreabilidade. Para isso ela recebe como entrada o&#xD;
+arquivo XML contendo uma tarefa mapeada, retira os métodos contidos no arquivo e os acopla à biblioteca de métricas gerando&#xD;
+assim os aspectos contendo as métricas para captura de dados quantitativos, contextuais e subjetivos.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

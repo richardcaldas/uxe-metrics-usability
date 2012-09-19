@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GpXU3ZBhbNWfti1h2j-u6g" name=",_ulpuwAHqEeKVhp71VvYcTQ" guid="-GpXU3ZBhbNWfti1h2j-u6g" changeDate="2012-09-18T20:49:06.953-0300">
+  <purpose>&lt;p>&#xD;
+    É necessário acessar o &lt;strong>FTP&lt;/strong> para ter acesso aos arquivos XML que contém os métodos de interface com o&#xD;
+    usuário que foram mapeados na atividade &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../ue.process/deliveryprocesses/realizar_mapeamento_148C0CF2.html&quot; guid=&quot;_ZwSRIf9zEeGYqaC-voeltA&quot;>Realizar o&#xD;
+    Mapeamento&lt;/a>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bRJR3YtahIZolaFstLa5yg" name="new_artifact,_U-sB0P9cEeGYqaC-voeltA" guid="-bRJR3YtahIZolaFstLa5yg" changeDate="2012-09-15T14:40:43.750-0300">
+  <mainDescription>Este template contém a estrutura de todos os métodos &lt;em>onUserInteraction&lt;/em>&amp;nbsp;que serão inseridos nas classes que&#xD;
+disponibilizam interações com o usuário.</mainDescription>
+  <purpose>Fornecer um template para geração dos &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../ue.mapeamento/workproducts/aspectos_mapeamento_B1DA097C.html&quot; guid=&quot;_nT4moP6PEeGWzL80hkLJyA&quot;>Aspectos de&#xD;
+Mapeamento&lt;/a></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

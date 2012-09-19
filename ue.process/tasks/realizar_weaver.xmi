@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qqqHwoSvHg6ayy-dXOtqLg" name=",_uAscQP7kEeGIbqCwuZBwYg" guid="-qqqHwoSvHg6ayy-dXOtqLg" authors="Michel Felipe" changeDate="2012-09-15T00:25:31.484-0300" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    Efetuar o &lt;em>Weaver&lt;/em> dos aspectos gerados ao código-fonte java da aplicação a ser mapeada. Este processo é&#xD;
+    responsável por efetuar a junção dos aspectos no código java já existente.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_G045MP7mEeGIbqCwuZBwYg" name="Editar o arquivo .project" guid="_G045MP7mEeGIbqCwuZBwYg">
+    <sectionDescription>&lt;p>&#xD;
+    Para editar o aquivo &lt;em>&lt;strong>.project&lt;/strong>&lt;/em> é&lt;strong>&lt;em>&amp;nbsp;&lt;/em>&lt;/strong>necessário e abri-lo no&#xD;
+    diretório do projeto, como na figura abaixo:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;480&quot; alt=&quot;&quot; src=&quot;resources/open_project.JPG&quot; width=&quot;600&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_obIQAP7mEeGIbqCwuZBwYg" name="Adicionar compilar de aspectos na seção buildspec" guid="_obIQAP7mEeGIbqCwuZBwYg">
+    <sectionDescription>&lt;p>&#xD;
+    O arquivo &lt;strong>&lt;em>.project&lt;/em>&lt;/strong> é um &lt;a href=&quot;http://www.w3schools.com/xml/&quot;&#xD;
+    target=&quot;_blank&quot;>XML&lt;/a>&amp;nbsp;em um formato específico do eclipse, que define informações do projeto. Para que o&#xD;
+    &lt;em>weaver&lt;/em> ocorra em um projeto &lt;a href=&quot;http://developer.android.com/index.html&quot;&#xD;
+    target=&quot;_blank&quot;>Android&lt;/a>&amp;nbsp;é necessário adicionar as tags selecionadas na figura abaixo, dentro da tag&#xD;
+    &lt;em>&lt;strong>&amp;lt;buildspec&amp;gt;&lt;/strong>&lt;/em>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;520&quot; alt=&quot;&quot; src=&quot;resources/project_file_xml.JPG&quot; width=&quot;600&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>Acoplar os Aspectos&amp;nbsp;ao aplicativo.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

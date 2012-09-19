@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_FEjjcP53EeGWzL80hkLJyA" guid="_FEjjcP53EeGWzL80hkLJyA">
+    <resourceDescriptors xmi:id="_0f-kkP57EeGWzL80hkLJyA" id="-k-tqL6HplMM6gv7FGnw7Ug" uri="roles/engenheiro_software.xmi"/>
+    <resourceDescriptors xmi:id="_29X_0P6WEeGWzL80hkLJyA" id="-NgHX-0CAEBmxCMzuF9T2JQ" uri="workproducts/aspectos_mapeamento.xmi"/>
+    <resourceDescriptors xmi:id="_ltsHEP6eEeGWzL80hkLJyA" id="-HcY3-tr3ejZAtK0jjBd95w" uri="tasks/caminho_projeto_aplicacao.xmi"/>
+    <resourceDescriptors xmi:id="_5V-8UP6eEeGWzL80hkLJyA" id="-Y2VX9KqYiMU-a9ZB4MUoSg" uri="disciplines/executar_ferramenta_mag.xmi"/>
+    <resourceDescriptors xmi:id="_MghBEP6rEeGWzL80hkLJyA" id="-I2lwRQFI1DSF2mVyk_JGKw" uri="tools/ferramenta_mag.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_FEhHMP53EeGWzL80hkLJyA" name="uxe.mapeamento" guid="_FEhHMP53EeGWzL80hkLJyA" presentationName="Mapeamento de Tarefas" briefDescription="Descrição dos Processos para realizar o mapeamento da aplicação a ser analisada" authors="Michel Felipe; Artur Kronbauer" changeDate="2012-09-14T11:21:23.657-0300" changeDescription="Criação do Projeto" version="1.0">
+    <methodElementProperty xmi:id="_heZt4P53EeGWzL80hkLJyA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHMf53EeGWzL80hkLJyA" name="Content" guid="_FEhHMf53EeGWzL80hkLJyA">
+      <methodElementProperty xmi:id="_iKUYsP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHMv53EeGWzL80hkLJyA" name="Categories" guid="_FEhHMv53EeGWzL80hkLJyA">
+        <methodElementProperty xmi:id="_iKU_wP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHM_53EeGWzL80hkLJyA" name="Domains" guid="_FEhHM_53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKVm0P53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHNP53EeGWzL80hkLJyA" name="Disciplines" guid="_FEhHNP53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKWN4P53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_zFICQP6eEeGWzL80hkLJyA" name="executar_ferramenta_mag" guid="_zFICQP6eEeGWzL80hkLJyA" presentationName="Executar a Ferramenta Mapping Aspect Generator (MAG)" briefDescription="Executar a ferramenta MAG para gerar os aspectos de mapeamento no projeto da aplicação que será analisada">
+            <methodElementProperty xmi:id="_5V9HIP6eEeGWzL80hkLJyA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Y2VX9KqYiMU-a9ZB4MUoSg" href="uma://-Y2VX9KqYiMU-a9ZB4MUoSg#-Y2VX9KqYiMU-a9ZB4MUoSg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHNf53EeGWzL80hkLJyA" name="RoleSets" guid="_FEhHNf53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKW08P53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHNv53EeGWzL80hkLJyA" name="WP Types" guid="_FEhHNv53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKXcAP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHN_53EeGWzL80hkLJyA" name="Tools" guid="_FEhHN_53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKYDEP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_nQf8oP6pEeGWzL80hkLJyA" name="ferramenta_mag" guid="_nQf8oP6pEeGWzL80hkLJyA" presentationName="Ferramenta MAG" briefDescription="Aplicação utilizada para gerar os aspectos de mapeamento">
+            <methodElementProperty xmi:id="_rlu3gP6pEeGWzL80hkLJyA" name="me_edited" value="true"/>
+            <presentation xmi:id="-I2lwRQFI1DSF2mVyk_JGKw" href="uma://-I2lwRQFI1DSF2mVyk_JGKw#-I2lwRQFI1DSF2mVyk_JGKw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHOP53EeGWzL80hkLJyA" name="StandardCategories" guid="_FEhHOP53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKYqIP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHOf53EeGWzL80hkLJyA" name="CustomCategories" guid="_FEhHOf53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKYqIf53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHOv53EeGWzL80hkLJyA" name="Hidden" guid="_FEhHOv53EeGWzL80hkLJyA">
+            <methodElementProperty xmi:id="_iKZRMP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_FEhHO_53EeGWzL80hkLJyA" name="Categorias Customizadas" guid="_FEhHO_53EeGWzL80hkLJyA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHPP53EeGWzL80hkLJyA" name="CoreContent" guid="_FEhHPP53EeGWzL80hkLJyA">
+        <methodElementProperty xmi:id="_iKZ4QP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DcIXoP54EeGWzL80hkLJyA" name="gerar_aspectos" guid="_DcIXoP54EeGWzL80hkLJyA" presentationName="Gerar Aspectos de Mapeamento" briefDescription="Tarefas e processos para a geração dos aspectos de mapeamento&#xD;&#xA;">
+          <methodElementProperty xmi:id="_FC99IP55EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+          <methodElementProperty xmi:id="_FTCZcP55EeGWzL80hkLJyA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_V8e38P55EeGWzL80hkLJyA" name="engenheiro_software" guid="_V8e38P55EeGWzL80hkLJyA" presentationName="Engenheiro de Software" briefDescription="Analista de Sistemas e/ou Desenvolvedor que possui conhecimentos na linguagem Java e na plataforma Android">
+            <methodElementProperty xmi:id="_rde7QP55EeGWzL80hkLJyA" name="me_edited" value="true"/>
+            <presentation xmi:id="-k-tqL6HplMM6gv7FGnw7Ug" href="uma://-k-tqL6HplMM6gv7FGnw7Ug#-k-tqL6HplMM6gv7FGnw7Ug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nT4moP6PEeGWzL80hkLJyA" name="aspectos_mapeamento" guid="_nT4moP6PEeGWzL80hkLJyA" presentationName="Arquivos .aj com código Orientado a Aspectos para mapeamento" briefDescription="Aspectos que identificam todos os métodos executados no caminho da tarefa e utiliza-se de um filtro para guardar apenas os métodos que tratam eventos do usuário, assim&#xD;&#xA;possibilitando que todos os passos necessários para concluir uma tarefa sejam capturados.">
+            <methodElementProperty xmi:id="_29U8gP6WEeGWzL80hkLJyA" name="me_edited" value="true"/>
+            <presentation xmi:id="-NgHX-0CAEBmxCMzuF9T2JQ" href="uma://-NgHX-0CAEBmxCMzuF9T2JQ#-NgHX-0CAEBmxCMzuF9T2JQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_s-dbcP6dEeGWzL80hkLJyA" name="caminho_projeto_aplicacao" guid="_s-dbcP6dEeGWzL80hkLJyA" presentationName="Inserir caminho do projeto" briefDescription="Inserir o caminho do projeto da aplicação a ser mapeada" performedBy="_V8e38P55EeGWzL80hkLJyA">
+            <methodElementProperty xmi:id="_eORvMP6eEeGWzL80hkLJyA" name="me_edited" value="true"/>
+            <presentation xmi:id="-HcY3-tr3ejZAtK0jjBd95w" href="uma://-HcY3-tr3ejZAtK0jjBd95w#-HcY3-tr3ejZAtK0jjBd95w"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FEhHPf53EeGWzL80hkLJyA" name="CapabilityPatterns" guid="_FEhHPf53EeGWzL80hkLJyA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FEhHPv53EeGWzL80hkLJyA" name="DeliveryProcesses" guid="_FEhHPv53EeGWzL80hkLJyA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FEhHP_53EeGWzL80hkLJyA" name="ProcessContributions" guid="_FEhHP_53EeGWzL80hkLJyA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

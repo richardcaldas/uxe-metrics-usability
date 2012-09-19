@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZMb3fhOERSlWvzrbUJJmoA" name="new_artifact,_Hb8V4P9ZEeGYqaC-voeltA" guid="-ZMb3fhOERSlWvzrbUJJmoA" changeDate="2012-09-15T14:18:13.000-0300">
+  <purpose>&lt;p>&#xD;
+    Disponibilizar o código-fonte da aplicação.&#xD;
+&lt;/p></purpose>
+  <impactOfNotHaving>Sem o&amp;nbsp;código-fonte da aplicação não é possível acoplar os aspectos de mapeamento.</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

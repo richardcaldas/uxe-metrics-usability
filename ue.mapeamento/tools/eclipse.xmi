@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vAbv7yWszZNvJJuv4n4tNA" name="new_tool,_nLqqQP9JEeGYqaC-voeltA" guid="-vAbv7yWszZNvJJuv4n4tNA" changeDate="2012-09-15T12:28:13.328-0300">
+  <mainDescription>&lt;p>&#xD;
+    O &lt;a href=&quot;C:/epf-composer-1.5.1.4/uxe-analise-apps-moveis/uxe.mapeamento/tools/www.eclipse.org/&quot;&#xD;
+    target=&quot;_blank&quot;>eclipse&lt;/a>&amp;nbsp;é uma IDE que fornece ferramentas e facilidades para o desenvolvimento de software. É&#xD;
+    nele que o projeto da aplicação será gerenciado&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

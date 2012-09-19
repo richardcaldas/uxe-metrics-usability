@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_eat1Yf9yEeGYqaC-voeltA" guid="_eat1Yf9yEeGYqaC-voeltA">
+    <resourceDescriptors xmi:id="_eat1Yv9yEeGYqaC-voeltA" id="-xMhfpKJm0blX3z1Bb086OA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_eaRwgP9yEeGYqaC-voeltA" name="mapeamento_tarefas" guid="_eaRwgP9yEeGYqaC-voeltA">
+    <methodElementProperty xmi:id="_x7cDAP9yEeGYqaC-voeltA" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3rf9IP9yEeGYqaC-voeltA" name="geracao_ aspectos" guid="_3rf9IP9yEeGYqaC-voeltA">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_3rf9If9yEeGYqaC-voeltA" name="geracao_ aspectos" guid="_3rf9If9yEeGYqaC-voeltA" presentationName="Geração de Aspectos" superActivities="_eaRwgf9yEeGYqaC-voeltA" breakdownElements="_GE1aMf9zEeGYqaC-voeltA _GE1aMP9zEeGYqaC-voeltA _GE1aM_9zEeGYqaC-voeltA _GE1aMv9zEeGYqaC-voeltA _GE_LMP9zEeGYqaC-voeltA _GE_LMf9zEeGYqaC-voeltA _GE_LMv9zEeGYqaC-voeltA _GE_LM_9zEeGYqaC-voeltA _GE_LNP9zEeGYqaC-voeltA _GE_LNf9zEeGYqaC-voeltA">
+        <methodElementProperty xmi:id="_o9bQEP97EeGj24WpgEAagQ" name="publish_ad" value="true"/>
+        <methodElementProperty xmi:id="_o9bQEf97EeGj24WpgEAagQ" name="publish_add" value="true"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_GE1aMP9zEeGYqaC-voeltA" name="caminho_gerar_aspectos" guid="_GE1aMP9zEeGYqaC-voeltA" presentationName="Inserir caminho para os aspectos" superActivities="_3rf9If9yEeGYqaC-voeltA" linkToPredecessor="_x9u3IP90EeGYqaC-voeltA" output="_GE_LMv9zEeGYqaC-voeltA">
+        <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_VIjlYP7hEeGIbqCwuZBwYg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_GE1aMf9zEeGYqaC-voeltA" name="caminho_projeto_aplicacao" guid="_GE1aMf9zEeGYqaC-voeltA" presentationName="Inserir caminho do projeto" superActivities="_3rf9If9yEeGYqaC-voeltA" additionallyPerformedBy="_GE_LMf9zEeGYqaC-voeltA" output="_GE_LM_9zEeGYqaC-voeltA" performedPrimarilyBy="_GE_LMP9zEeGYqaC-voeltA">
+        <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_s-dbcP6dEeGWzL80hkLJyA"/>
+        <selectedSteps href="uma://-HcY3-tr3ejZAtK0jjBd95w#_UbzdoP6gEeGWzL80hkLJyA"/>
+        <selectedSteps href="uma://-HcY3-tr3ejZAtK0jjBd95w#_GVNEcP6iEeGWzL80hkLJyA"/>
+        <selectedSteps href="uma://-HcY3-tr3ejZAtK0jjBd95w#_XyKOEP6jEeGWzL80hkLJyA"/>
+        <selectedSteps href="uma://-HcY3-tr3ejZAtK0jjBd95w#_jos-QP6jEeGWzL80hkLJyA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_GE1aMv9zEeGYqaC-voeltA" name="gerar_apk_aplicacao" guid="_GE1aMv9zEeGYqaC-voeltA" presentationName="Gerar o .apk da aplicação a ser mapeada" superActivities="_3rf9If9yEeGYqaC-voeltA" linkToPredecessor="_9echQf90EeGYqaC-voeltA" additionallyPerformedBy="_GE_LMf9zEeGYqaC-voeltA" mandatoryInput="_GE_LNP9zEeGYqaC-voeltA" output="_GE_LNf9zEeGYqaC-voeltA" performedPrimarilyBy="_GE_LMP9zEeGYqaC-voeltA">
+        <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_Mn4pkP9JEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-REOjGN-DIdklr_l9kua5tQ#_i2NF4P9JEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-REOjGN-DIdklr_l9kua5tQ#_UacvgP9gEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-REOjGN-DIdklr_l9kua5tQ#_wFmn8P9gEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-REOjGN-DIdklr_l9kua5tQ#_7ZpvEP9gEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-REOjGN-DIdklr_l9kua5tQ#_nVgO0P9hEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-REOjGN-DIdklr_l9kua5tQ#_UOco8P9iEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-REOjGN-DIdklr_l9kua5tQ#_wA5cMP9iEeGYqaC-voeltA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_GE1aM_9zEeGYqaC-voeltA" name="realizar_weaver" guid="_GE1aM_9zEeGYqaC-voeltA" presentationName="Realizar o Weaver" superActivities="_3rf9If9yEeGYqaC-voeltA" linkToPredecessor="_1fCasf90EeGYqaC-voeltA" additionallyPerformedBy="_GE_LMf9zEeGYqaC-voeltA" mandatoryInput="_GE_LMv9zEeGYqaC-voeltA" output="_GE_LNP9zEeGYqaC-voeltA" performedPrimarilyBy="_GE_LMP9zEeGYqaC-voeltA">
+        <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_uAscQP7kEeGIbqCwuZBwYg"/>
+        <selectedSteps href="uma://-qqqHwoSvHg6ayy-dXOtqLg#_G045MP7mEeGIbqCwuZBwYg"/>
+        <selectedSteps href="uma://-qqqHwoSvHg6ayy-dXOtqLg#_obIQAP7mEeGIbqCwuZBwYg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_GE_LMP9zEeGYqaC-voeltA" name="equipe_ihc" guid="_GE_LMP9zEeGYqaC-voeltA" presentationName="Equipe de IHC" isPlanned="false" superActivities="_3rf9If9yEeGYqaC-voeltA" modifies="_GE_LM_9zEeGYqaC-voeltA _GE_LNf9zEeGYqaC-voeltA _GE_LNP9zEeGYqaC-voeltA" responsibleFor="_GE_LM_9zEeGYqaC-voeltA _GE_LMv9zEeGYqaC-voeltA">
+        <Role href="uma://_FEhHMP53EeGWzL80hkLJyA#_V8e38P55EeGWzL80hkLJyA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_GE_LMf9zEeGYqaC-voeltA" name="desenvolvedor" guid="_GE_LMf9zEeGYqaC-voeltA" presentationName="Desenvolvedor" isPlanned="false" superActivities="_3rf9If9yEeGYqaC-voeltA" responsibleFor="_GE_LM_9zEeGYqaC-voeltA _GE_LMv9zEeGYqaC-voeltA">
+        <Role href="uma://_FEhHMP53EeGWzL80hkLJyA#_8K5cQP9UEeGYqaC-voeltA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_GE_LMv9zEeGYqaC-voeltA" name="aspectos_mapeamento" guid="_GE_LMv9zEeGYqaC-voeltA" presentationName="Aspectos de Mapeamento" isPlanned="false" superActivities="_3rf9If9yEeGYqaC-voeltA">
+        <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_nT4moP6PEeGWzL80hkLJyA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_GE_LM_9zEeGYqaC-voeltA" name="caminho_aplicacao" guid="_GE_LM_9zEeGYqaC-voeltA" presentationName="Caminho da aplicação a ser mapeada" isPlanned="false" superActivities="_3rf9If9yEeGYqaC-voeltA">
+        <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_myMYwP7lEeGIbqCwuZBwYg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_GE_LNP9zEeGYqaC-voeltA" name="arquivos_bytecode_aplicacao" guid="_GE_LNP9zEeGYqaC-voeltA" presentationName="Arquivos .class da aplicação" isPlanned="false" superActivities="_3rf9If9yEeGYqaC-voeltA">
+        <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_V26_cP9eEeGYqaC-voeltA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_GE_LNf9zEeGYqaC-voeltA" name="apk_aplicacao" guid="_GE_LNf9zEeGYqaC-voeltA" presentationName="Apk da aplicação a ser mapeada" isPlanned="false" superActivities="_3rf9If9yEeGYqaC-voeltA">
+        <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_1BSwwP9eEeGYqaC-voeltA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_x9u3IP90EeGYqaC-voeltA" guid="_x9u3IP90EeGYqaC-voeltA" pred="_GE1aMf9zEeGYqaC-voeltA"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_1fCasf90EeGYqaC-voeltA" guid="_1fCasf90EeGYqaC-voeltA" pred="_GE1aMP9zEeGYqaC-voeltA"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_9echQf90EeGYqaC-voeltA" guid="_9echQf90EeGYqaC-voeltA" pred="_GE1aM_9zEeGYqaC-voeltA"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ZwSRIP9zEeGYqaC-voeltA" name="realizar_mapeamento" guid="_ZwSRIP9zEeGYqaC-voeltA">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_ZwSRIf9zEeGYqaC-voeltA" name="realizar_mapeamento" guid="_ZwSRIf9zEeGYqaC-voeltA" presentationName="Realizar o Mapeamento" superActivities="_eaRwgf9yEeGYqaC-voeltA" linkToPredecessor="_UrUF8f90EeGYqaC-voeltA" breakdownElements="_lKcAQP9zEeGYqaC-voeltA _lKu7MP9zEeGYqaC-voeltA _lKu7Mf9zEeGYqaC-voeltA _-t_TAP9zEeGYqaC-voeltA _-uJEAP9zEeGYqaC-voeltA _-uJEAf9zEeGYqaC-voeltA"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_lKcAQP9zEeGYqaC-voeltA" name="instalar_aplicativo_smartphone" guid="_lKcAQP9zEeGYqaC-voeltA" presentationName="Instalar aplicativo no smartphone" superActivities="_ZwSRIf9zEeGYqaC-voeltA" mandatoryInput="_lKu7MP9zEeGYqaC-voeltA" output="_lKu7Mf9zEeGYqaC-voeltA">
+        <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_ONIKQP9jEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-9BI94_TvtnP7U2qSkWOYpg#_c9tpsP9jEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-9BI94_TvtnP7U2qSkWOYpg#_xQpXYP9jEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-9BI94_TvtnP7U2qSkWOYpg#_M-L1cP9kEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-9BI94_TvtnP7U2qSkWOYpg#_n3bIwP9kEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-9BI94_TvtnP7U2qSkWOYpg#_9WDNgP9kEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-9BI94_TvtnP7U2qSkWOYpg#_9immUP9lEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-9BI94_TvtnP7U2qSkWOYpg#_C4SRkP9mEeGYqaC-voeltA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_lKu7MP9zEeGYqaC-voeltA" name="apk_aplicacao" guid="_lKu7MP9zEeGYqaC-voeltA" presentationName="Apk da aplicação a ser mapeada" isPlanned="false" superActivities="_ZwSRIf9zEeGYqaC-voeltA">
+        <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_1BSwwP9eEeGYqaC-voeltA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_lKu7Mf9zEeGYqaC-voeltA" name="aplicativo_pronta_mapeado" guid="_lKu7Mf9zEeGYqaC-voeltA" presentationName="Aplicação pronta para ser mapeada." isPlanned="false" superActivities="_ZwSRIf9zEeGYqaC-voeltA">
+        <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_3YpJAP9mEeGYqaC-voeltA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_-t_TAP9zEeGYqaC-voeltA" name="realizar_mapeamento" guid="_-t_TAP9zEeGYqaC-voeltA" presentationName="Realizar o Mapeamento" superActivities="_ZwSRIf9zEeGYqaC-voeltA" linkToPredecessor="_T41qsf91EeGYqaC-voeltA" mandatoryInput="_lKu7Mf9zEeGYqaC-voeltA" output="_-uJEAf9zEeGYqaC-voeltA" performedPrimarilyBy="_-uJEAP9zEeGYqaC-voeltA">
+        <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_bCdhIP9nEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-AsigDhuqdgrrD0dX7Ef9Jw#_JsTJwP9rEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-AsigDhuqdgrrD0dX7Ef9Jw#_P8GT4P9rEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-AsigDhuqdgrrD0dX7Ef9Jw#_AyqaIP9sEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-AsigDhuqdgrrD0dX7Ef9Jw#_K2--wP9sEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-AsigDhuqdgrrD0dX7Ef9Jw#_mxVw0P9sEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-AsigDhuqdgrrD0dX7Ef9Jw#_rVGP4P9sEeGYqaC-voeltA"/>
+        <selectedSteps href="uma://-AsigDhuqdgrrD0dX7Ef9Jw#_GBXeMP9tEeGYqaC-voeltA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_-uJEAP9zEeGYqaC-voeltA" name="equipe_ihc" guid="_-uJEAP9zEeGYqaC-voeltA" presentationName="Equipe de IHC" isPlanned="false" superActivities="_ZwSRIf9zEeGYqaC-voeltA" modifies="_-uJEAf9zEeGYqaC-voeltA">
+        <Role href="uma://_FEhHMP53EeGWzL80hkLJyA#_V8e38P55EeGWzL80hkLJyA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_-uJEAf9zEeGYqaC-voeltA" name="arquivo_xml_mapeamento" guid="_-uJEAf9zEeGYqaC-voeltA" presentationName="Arquivo XML de Mapeamento" isPlanned="false" superActivities="_ZwSRIf9zEeGYqaC-voeltA">
+        <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_YuaWsP9uEeGYqaC-voeltA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_UrUF8f90EeGYqaC-voeltA" guid="_UrUF8f90EeGYqaC-voeltA" pred="_3rf9If9yEeGYqaC-voeltA"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_T41qsf91EeGYqaC-voeltA" guid="_T41qsf91EeGYqaC-voeltA" pred="_lKcAQP9zEeGYqaC-voeltA"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_eaRwgf9yEeGYqaC-voeltA" name="mapeamento_tarefas" guid="_eaRwgf9yEeGYqaC-voeltA" presentationName="Mapeamento de Tarefas" breakdownElements="_3rf9If9yEeGYqaC-voeltA _ZwSRIf9zEeGYqaC-voeltA">
+      <presentation xmi:id="-xMhfpKJm0blX3z1Bb086OA" href="uma://-xMhfpKJm0blX3z1Bb086OA#-xMhfpKJm0blX3z1Bb086OA"/>
+      <defaultContext href="uma://_39zIkP52EeGWzL80hkLJyA#_RLSmsP9yEeGYqaC-voeltA"/>
+      <validContext href="uma://_39zIkP52EeGWzL80hkLJyA#_RLSmsP9yEeGYqaC-voeltA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

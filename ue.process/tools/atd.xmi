@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-C11Eyegq_DX2A9PB8cw9MQ" name="new_tool,_asvTUP9oEeGYqaC-voeltA" guid="-C11Eyegq_DX2A9PB8cw9MQ" changeDate="2012-09-15T16:11:06.093-0300">
+  <mainDescription>Esta ferramenta identifica quando um método &lt;em>onUserInteraction&lt;/em> é executado na aplicação que está sendo mapeada e&#xD;
+captura a assinatura do próximo método que é executado na aplicação. Esta ação é que permite o mapeamento das tarefas. Além&#xD;
+disso, a ferramenta possibiita que a &lt;a class=&quot;elementLink&quot; href=&quot;./../../ue.mapeamento/roles/equipe_ihc_DAE7EB8A.html&quot;&#xD;
+guid=&quot;_V8e38P55EeGWzL80hkLJyA&quot;>Equipe de IHC&lt;/a>&amp;nbsp;defina valores de referência para a tarefa como, por exemplo, número&#xD;
+de ações necessárias para executar a tarefa, tempo médio para completar a tarefa e&amp;nbsp;máxima quantidade de erros&#xD;
+aceitáveis para a conclusão da tarefa.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

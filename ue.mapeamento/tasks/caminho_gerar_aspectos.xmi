@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-A82iPujFKnb19GC6W3fePA" name=",_VIjlYP7hEeGIbqCwuZBwYg" guid="-A82iPujFKnb19GC6W3fePA" changeDate="2012-09-15T00:19:05.109-0300">
+  <mainDescription>&lt;p>&#xD;
+    Definir o local de destino para geração dos aspectos de mapeamento. &lt;font face=&quot;Calibri&quot;>&lt;span lang=&quot;PT-BR&quot;>O&#xD;
+    ideal&amp;nbsp;é utilizar o mesmo caminho onde já estava o código fonte, visto que os arquivos com extensão&#xD;
+    &lt;strong>.aj&lt;/strong>&amp;nbsp;contendo os aspectos&lt;/span>&lt;/font> devem ficar no mesmo diretorio que os arquivos&#xD;
+    &lt;strong>.java&lt;/strong> da aplicação a ser mapeada.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A imagem abaixo demonstra o procedimento:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 592px; HEIGHT: 458px&quot; height=&quot;461&quot; alt=&quot;&quot; src=&quot;./resources/aspects_path.JPG&quot; width=&quot;600&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

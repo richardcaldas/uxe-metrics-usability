@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-k-tqL6HplMM6gv7FGnw7Ug" name="new_role,_V8e38P55EeGWzL80hkLJyA" guid="-k-tqL6HplMM6gv7FGnw7Ug" authors="Michel Felipe; Artur Kronbauer" changeDate="2012-09-14T11:50:54.689-0300" version="1.0">
+  <mainDescription>Analista de Sistemas que consiga utilizar a ferramenta de geração dos aspectos e possua conhecimentos de valores base de&#xD;
+métricas de usabilidade de aplicativos móveis</mainDescription>
+  <skills>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Sólidos conhecimentos na linguagem de programação &lt;strong>Java&lt;/strong>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Conhecimentos&amp;nbsp;na plataforma &lt;a href=&quot;http://developer.android.com/index.html&quot; target=&quot;_blank&quot;>Android&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Saber utilizar a ferramenta &lt;a href=&quot;http://www.eclipse.org/&quot; target=&quot;_blank&quot;>Eclipse&lt;/a>&amp;nbsp;e o Plugin &lt;a&#xD;
+        href=&quot;http://developer.android.com/tools/sdk/eclipse-adt.html&quot; target=&quot;_blank&quot;>ADT&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+</org.eclipse.epf.uma:RoleDescription>

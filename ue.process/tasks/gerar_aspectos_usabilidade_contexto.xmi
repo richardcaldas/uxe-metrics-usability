@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-T8qgiUMH9vMal8hvIJTqAQ" name=",_H5bqsAHsEeKVhp71VvYcTQ" guid="-T8qgiUMH9vMal8hvIJTqAQ" changeDate="2012-09-18T21:05:21.000-0300">
+  <purpose>Gerar os aspectos contendo as métricas de usabilidade e contexto, selecionadas na ferramenta &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../ue.process/tools/uxe_metrics_generator_62930FE4.html&quot; guid=&quot;_LLfu0P9vEeGYqaC-voeltA&quot;>UXE Metrics&#xD;
+Generator&lt;/a></purpose>
+</org.eclipse.epf.uma:TaskDescription>

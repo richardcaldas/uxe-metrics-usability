@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qPbRXZWqqPzfzwBicaoNlw" name="new_artifact,_4Lji8AHzEeKVhp71VvYcTQ" guid="-qPbRXZWqqPzfzwBicaoNlw" changeDate="2012-09-18T21:54:46.093-0300">
+  <purpose>Coletar dados das métricas de usabilidade e contexto dos usuários. Estes&amp;nbsp;aspectos irão coletar os dados de interação&#xD;
+com usuário e irão coletar os dados para posterior comparação com os valores definidos pela &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../ue.process/roles/equipe_ihc_DAE7EB8A.html&quot; guid=&quot;_V8e38P55EeGWzL80hkLJyA&quot;>Equipe de IHC&lt;/a>&amp;nbsp;na atividade&#xD;
+&lt;a class=&quot;elementLink&quot; href=&quot;./../../ue.process/deliveryprocesses/realizar_mapeamento_148C0CF2.html&quot;&#xD;
+guid=&quot;_ZwSRIf9zEeGYqaC-voeltA&quot;>Realizar o Mapeamento&lt;/a>.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kL7Jwegi3sbejqZ1vOjyrQ" name=",_1BSwwP9eEeGYqaC-voeltA" guid="-kL7Jwegi3sbejqZ1vOjyrQ" changeDate="2012-09-15T15:05:38.000-0300">
+  <mainDescription>Este artefato terá a interação da &lt;a class=&quot;elementLink&quot; href=&quot;./../../ue.mapeamento/roles/equipe_ihc_DAE7EB8A.html&quot;&#xD;
+guid=&quot;_V8e38P55EeGWzL80hkLJyA&quot;>Equipe de IHC&lt;/a> para a&amp;nbsp;definição das tarefas que serão mapeadas.</mainDescription>
+  <purpose>Permitir a execução das tarefas que serão mapeadas</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

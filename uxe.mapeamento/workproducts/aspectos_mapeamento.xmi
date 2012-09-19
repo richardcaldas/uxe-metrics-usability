@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NgHX-0CAEBmxCMzuF9T2JQ" name="new_artifact,_nT4moP6PEeGWzL80hkLJyA" guid="-NgHX-0CAEBmxCMzuF9T2JQ" authors="Michel Felipe; Artur Kronbauer" changeDate="2012-09-14T14:53:53.217-0300" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    Estes aspectos são criados a partir do arquivo de template &quot;&lt;strong>xxxxxx.aj&lt;/strong>&quot;. O ponto chave desses Aspectos&#xD;
+    é prover um filtro que identifique quando ocorre uma interação do usuário e qual classe, método e parâmetro da&#xD;
+    aplicação foram utilizados.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Para identificar quando ocorre uma interação na plataforma Android,&amp;nbsp;que é&amp;nbsp;o foco deste projeto,&amp;nbsp;é&#xD;
+    necessário utilizar o método &lt;strong>onUserInteraction&lt;/strong> das classes que representam atividades.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O trecho de código abaixo apresentado o &lt;strong>pointcut&lt;/strong> e o &lt;strong>advice&lt;/strong> para identificar uma ação&#xD;
+    do usuário e atribuir à variável de controle o valor verdadeiro:&lt;br />&#xD;
+    &amp;nbsp;&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;table style=&quot;WIDTH: 643px; HEIGHT: 130px&quot; title=&quot;&quot; border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;643&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td class=&quot;codeSample&quot;>&#xD;
+                &lt;p class=&quot;codeSample&quot;>&#xD;
+                    &lt;strong>pointcut&lt;/strong> &lt;em>userInteractionPointcut&lt;/em>( ) : &lt;strong>execution&lt;/strong>(void&#xD;
+                    *.&lt;em>onUserInteraction&lt;/em>( ) );&#xD;
+                &lt;/p>&#xD;
+                &lt;p>&#xD;
+                    &lt;font face=&quot;Courier New&quot;>&lt;strong>before&lt;/strong>( ) : &lt;em>userInteractionPointcut&lt;/em>( ){&lt;/font>&#xD;
+                &lt;/p>&#xD;
+                &lt;p>&#xD;
+                    &lt;font face=&quot;Courier New&quot;>&amp;nbsp;&amp;nbsp;userInteraction = &lt;strong>true&lt;/strong>;&lt;/font>&#xD;
+                &lt;/p>&#xD;
+                &lt;p>&#xD;
+                    &lt;font face=&quot;Courier New&quot;>}&lt;/font>&#xD;
+                &lt;/p>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <impactOfNotHaving>&lt;p>&#xD;
+    A geração desses arquivos com os aspectos é imprescindível para o mapeamento da aplicação. Sem ele, não é possível&#xD;
+    identificar quais funcionalidades da aplicação possuem interação com usuário(&quot;disparam&quot; eventos).&#xD;
+&lt;/p></impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

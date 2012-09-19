@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AsigDhuqdgrrD0dX7Ef9Jw" name=",_bCdhIP9nEeGYqaC-voeltA" guid="-AsigDhuqdgrrD0dX7Ef9Jw" changeDate="2012-09-15T16:01:02.312-0300">
+  <mainDescription>&lt;p>&#xD;
+    Durante este processo serão extraídos os métodos que são executados durante a realização de uma tarefa. Além disso&#xD;
+    serão descritos os valores de referência para cada tarefa.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_JsTJwP9rEeGYqaC-voeltA" name="Executar a aplicação." guid="_JsTJwP9rEeGYqaC-voeltA">
+    <sectionDescription>&lt;p>&#xD;
+    Executar a aplicação que será mapeada.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;341&quot; alt=&quot;&quot; src=&quot;./resources/app_milleage.jpg&quot; width=&quot;205&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_P8GT4P9rEeGYqaC-voeltA" name="Executar a Ferramenta ATD." guid="_P8GT4P9rEeGYqaC-voeltA">
+    <sectionDescription>&lt;p>&#xD;
+    Executar a Ferramenta &lt;a class=&quot;elementLink&quot; href=&quot;./../../ue.mapeamento/tools/atd_42155859.html&quot;&#xD;
+    guid=&quot;_asvTUP9oEeGYqaC-voeltA&quot;>Automatic Task Description&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;img height=&quot;341&quot; alt=&quot;&quot; src=&quot;resources/app_atd.jpg&quot; width=&quot;205&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_AyqaIP9sEeGYqaC-voeltA" name="Pressionar o botão Start" guid="_AyqaIP9sEeGYqaC-voeltA">
+    <sectionDescription>&lt;p>&#xD;
+    Pressionar o botão Start da Ferramenta ATD.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_K2--wP9sEeGYqaC-voeltA" name="Executar todos os passos da tarefa." guid="_K2--wP9sEeGYqaC-voeltA">
+    <sectionDescription>Executar todos os passos de uma tarefa para a realização do seu mapeamento.</sectionDescription>
+  </sections>
+  <sections xmi:id="_mxVw0P9sEeGYqaC-voeltA" name="Voltar para a Ferramenta ATD." guid="_mxVw0P9sEeGYqaC-voeltA">
+    <sectionDescription>Voltar para a Ferramenta &lt;a class=&quot;elementLink&quot; href=&quot;./../../ue.mapeamento/tools/atd_42155859.html&quot;&#xD;
+guid=&quot;_asvTUP9oEeGYqaC-voeltA&quot;>Automatic Task Description&lt;/a>&lt;strong>&amp;nbsp;&lt;/strong>e Pressionar o botão&#xD;
+&lt;strong>Stop&lt;/strong>.</sectionDescription>
+  </sections>
+  <sections xmi:id="_rVGP4P9sEeGYqaC-voeltA" name="Selecionar o Botão Define Reference Values." guid="_rVGP4P9sEeGYqaC-voeltA">
+    <sectionDescription>&lt;p>&#xD;
+    Selecionar o botão &lt;strong>Define Reference Values&lt;/strong> e informar os valores referentes a tarefa e pressionar o&#xD;
+    botão &lt;strong>OK&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;341&quot; alt=&quot;&quot; src=&quot;resources/define_reference.jpg&quot; width=&quot;205&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_GBXeMP9tEeGYqaC-voeltA" name="Dar um nome para a tarefa." guid="_GBXeMP9tEeGYqaC-voeltA">
+    <sectionDescription>&lt;p>&#xD;
+    Dar um nome para a tarefa e pressionar o botão &lt;strong>Save&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;319&quot; alt=&quot;&quot; src=&quot;resources/atd_save.jpg&quot; width=&quot;192&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <purpose>Descrever os passos necessários para a realização de uma tarefa.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

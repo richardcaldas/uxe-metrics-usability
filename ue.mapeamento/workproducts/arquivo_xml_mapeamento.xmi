@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HHu12ZXnr8lWGHxj1olc0w" name=",_YuaWsP9uEeGYqaC-voeltA" guid="-HHu12ZXnr8lWGHxj1olc0w" changeDate="2012-09-15T16:52:26.703-0300">
+  <mainDescription>Este arquivo contém os métodos que serão utilizados juntamente com a ferramenta&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../ue.mapeamento/tools/uxe_metrics_generator_62930FE4.html&quot; guid=&quot;_LLfu0P9vEeGYqaC-voeltA&quot;>UXE Metrics&#xD;
+Generator&lt;/a>&amp;nbsp;para possibilitar a geração dos aspectos de rastreabilidade.</mainDescription>
+  <purpose>Será utilizado para gerar os aspectos de rastreabilidade.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

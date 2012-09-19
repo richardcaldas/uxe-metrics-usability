@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HcY3-tr3ejZAtK0jjBd95w" name="caminho_projeto_aplicacao,_s-dbcP6dEeGWzL80hkLJyA" guid="-HcY3-tr3ejZAtK0jjBd95w" authors="Michel Felipe" changeDate="2012-09-14T16:01:24.078-0300" version="1.0">
+  <mainDescription>Nessa tarefa, é necessário inserir o caminho da aplicação android a ser mapeada. Para isso, é necessário ter o código fonte&#xD;
+&lt;strong>.java&lt;/strong> da aplicação. Sem isso, não será possível inserir os aspectos e tão pouco mapear os eventos</mainDescription>
+  <sections xmi:id="_UbzdoP6gEeGWzL80hkLJyA" name="Clicar com o botão direito do mouse sobre a pasta de código-fonte (src) da aplicação" guid="_UbzdoP6gEeGWzL80hkLJyA">
+    <sectionDescription>&lt;p>&#xD;
+    A pasta &lt;strong>&lt;em>src&lt;/em>&lt;/strong> contém o código fonte com todos os arquivos &lt;strong>&lt;em>.java&lt;/em>&lt;/strong> de&#xD;
+    uma aplicação android. Os aspectos de extensão &lt;strong>&lt;em>.aj&lt;/em>&lt;/strong> precisam ficar no mesmo local que os&#xD;
+    arquivos &lt;em>&lt;strong>.java&lt;/strong>&lt;/em>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A imagem abaixo demonstra o procedimento:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/btn_direito.png&quot; width=&quot;366&quot; height=&quot;329&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_GVNEcP6iEeGWzL80hkLJyA" name="Selecionar a opção &quot;Properties&quot; do menu" guid="_GVNEcP6iEeGWzL80hkLJyA">
+    <sectionDescription>Clique na opção &lt;strong>&quot;Properties&quot;&lt;/strong> do menu que se abre ao clicar com botão direito.</sectionDescription>
+  </sections>
+  <sections xmi:id="_XyKOEP6jEeGWzL80hkLJyA" name="Copiar o caminho onde se encontra o código fonte da aplicação" guid="_XyKOEP6jEeGWzL80hkLJyA">
+    <sectionDescription>&lt;p>&#xD;
+    Selecione e copie&amp;nbsp;o caminho na caixa de diálogo que se abriu.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_jos-QP6jEeGWzL80hkLJyA" name="Colar o caminho da pasta de  código-fonte na aplicação MAG" guid="_jos-QP6jEeGWzL80hkLJyA">
+    <sectionDescription>&lt;p>&#xD;
+    Cole o caminho selecionado na caixa de texto da &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../uxe.mapeamento/tools/ferramenta_mag_70D212B2.html&quot; guid=&quot;_nQf8oP6pEeGWzL80hkLJyA&quot;>Ferramenta&#xD;
+    MAG&lt;/a>&amp;nbsp;e pressione o botão&amp;nbsp;&amp;nbsp;&lt;img style=&quot;WIDTH: 66px; HEIGHT: 25px&quot; alt=&quot;OK&quot; src=&quot;resources/btn.jpg&quot;&#xD;
+    width=&quot;68&quot; height=&quot;25&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

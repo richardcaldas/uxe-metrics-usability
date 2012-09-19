@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oCZP6y-rXjU5VWcCNXKAJw" name="new_outcome,_myMYwP7lEeGIbqCwuZBwYg" guid="-oCZP6y-rXjU5VWcCNXKAJw" changeDate="2012-09-15T00:31:23.296-0300">
+  <impactOfNotHaving>&lt;p>&#xD;
+    É necessário informar o caminho da aplicação. Caso contrário, não serã possível efetuar o mapeamento da mesma&#xD;
+&lt;/p></impactOfNotHaving>
+</org.eclipse.epf.uma:WorkProductDescription>
