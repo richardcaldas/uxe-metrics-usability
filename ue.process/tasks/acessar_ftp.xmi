@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GpXU3ZBhbNWfti1h2j-u6g" name=",_ulpuwAHqEeKVhp71VvYcTQ" guid="-GpXU3ZBhbNWfti1h2j-u6g" changeDate="2012-09-18T20:49:06.953-0300">
+  <sections xmi:id="_GByHUALCEeKzw4aHyYUzag" name="Realizar o acesso ao FTP" guid="_GByHUALCEeKzw4aHyYUzag">
+    <sectionDescription>&lt;p>%EOL%    Realizar o acesso via o servidor de FTP através do Windows Explorer.%EOL%&lt;/p>%EOL%&lt;p>%EOL%    O endereço é &lt;a href=&quot;ftp://uxeuser@uxeproject.no-ip.org/&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot;     face=&quot;Calibri&quot;>&lt;span lang=&quot;PT-BR&quot;>&lt;u>&lt;font     color=&quot;#0066cc&quot;>ftp://uxeuser@uxeproject.no-ip.org/&lt;/font>&lt;/u>&lt;/span>&lt;/font>&lt;/font>&lt;/a>%EOL%&lt;/p>%EOL%&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_0J2nAALCEeKzw4aHyYUzag" name="Autenticar no FTP" guid="_0J2nAALCEeKzw4aHyYUzag">
+    <sectionDescription>&lt;p>&#xD;
+    Preencher as informações de &lt;em>username&lt;/em> e &lt;em>password&lt;/em> conforme a imagem abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;img style=&quot;WIDTH: 414px; HEIGHT: 363px&quot; alt=&quot;&quot; src=&quot;resources/acesso_ftp.png&quot; width=&quot;600&quot; height=&quot;538&quot; />&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_wOWlUALDEeKzw4aHyYUzag" name="Copiar arquivos XML" guid="_wOWlUALDEeKzw4aHyYUzag">
+    <sectionDescription>Após a autenticação, acessar a pasta &lt;strong>Task&lt;/strong> e copiar os arquivos XML de mapeamento para uma pasta do&#xD;
+computador local.</sectionDescription>
+  </sections>
   <purpose>&lt;p>&#xD;
     É necessário acessar o &lt;strong>FTP&lt;/strong> para ter acesso aos arquivos XML que contém os métodos de interface com o&#xD;
     usuário que foram mapeados na atividade &lt;a class=&quot;elementLink&quot;&#xD;
