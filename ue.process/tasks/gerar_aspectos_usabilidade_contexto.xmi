@@ -1,5 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-T8qgiUMH9vMal8hvIJTqAQ" name=",_H5bqsAHsEeKVhp71VvYcTQ" guid="-T8qgiUMH9vMal8hvIJTqAQ" changeDate="2012-09-18T21:05:21.000-0300">
+  <sections xmi:id="_OldtsALEEeKzw4aHyYUzag" name="Executar a ferramenta UXE Metrics Generation" guid="_OldtsALEEeKzw4aHyYUzag">
+    <sectionDescription>&lt;p>&#xD;
+    Executar a ferramenta &lt;a class=&quot;elementLink&quot; href=&quot;./../../ue.process/tools/uxe_metrics_generator_62930FE4.html&quot;&#xD;
+    guid=&quot;_LLfu0P9vEeGYqaC-voeltA&quot;>UXE Metrics Generator&lt;/a>&amp;nbsp;conforme&amp;nbsp;a imagem abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 342px; HEIGHT: 487px&quot; alt=&quot;&quot; src=&quot;./resources/uxe_metrics.png&quot; width=&quot;408&quot; height=&quot;552&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_gxjDoALEEeKzw4aHyYUzag" name="Abrir o arquivo XML" guid="_gxjDoALEEeKzw4aHyYUzag">
+    <sectionDescription>&lt;p>&#xD;
+    Pressionar o botão &lt;b>Open File&lt;/b> para escolher o arquivo XML referente ao mapeamento de uma tarefa.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 513px; HEIGHT: 548px&quot; alt=&quot;&quot; src=&quot;resources/open_file.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_pidDIALFEeKzw4aHyYUzag" name="Preencher caminho do pacote" guid="_pidDIALFEeKzw4aHyYUzag">
+    <sectionDescription>&lt;p>&#xD;
+    Colar o caminho do pacote no campo destacado na imagem abaixo. Este caminho define onde os aspectos serão inseridos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Recomenda-se sempre utilizar o pacote nomeado como &lt;strong>br.com.uxeproject.aspects&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;./resources/caminho_aba1.png&quot; width=&quot;474&quot; height=&quot;454&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_ei2skALGEeKzw4aHyYUzag" name="Definir as métricas de usabilidade e de contexto" guid="_ei2skALGEeKzw4aHyYUzag">
+    <sectionDescription>&lt;p>&#xD;
+    Definir as métricas de usabilidade e de contexto que deseja habilitar para o rastreamento conforme a imagem abaixo.&#xD;
+    Como padrão todas as métricas estão selecionadas.&lt;br />&#xD;
+    &lt;br />&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/sel_metricas.png&quot; width=&quot;524&quot; height=&quot;502&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_85EdEALGEeKzw4aHyYUzag" name="Pressionar o botão Genarate Task Metrics." guid="_85EdEALGEeKzw4aHyYUzag">
+    <sectionDescription>&lt;p>&#xD;
+    Pressionar o botão &lt;strong>Genarate Task Metrics&lt;/strong>. O resultado desta etapa é a geração automática do Aspecto,&#xD;
+    como pode ser observado na figura abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/aspect_aba1.png&quot; width=&quot;481&quot; height=&quot;506&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_RsWewALHEeKzw4aHyYUzag" name="Localizar o nome do aspecto gerado" guid="_RsWewALHEeKzw4aHyYUzag">
+    <sectionDescription>&lt;p>&#xD;
+    Localizar na janela que apresenta o Aspecto o nome que foi gerado para ele e copiá-lo. Segue abaixo a imagem destacando&#xD;
+    o nome gerado para este aspecto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;./resources/sel_nomeaspect_aba1.png&quot; width=&quot;549&quot; height=&quot;577&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_ow5_gALHEeKzw4aHyYUzag" name="Salvar o Aspecto" guid="_ow5_gALHEeKzw4aHyYUzag">
+    <sectionDescription>&lt;p>&#xD;
+    Pressionar o botão &lt;strong>Save Aspect&lt;/strong>, localizar a pasta onde será salvo o Aspecto e colocar o nome copiado&#xD;
+    no passo anterior no campo &lt;strong>File Name&lt;/strong> e digitar a extensão .&lt;strong>aj&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 496px; HEIGHT: 351px&quot; alt=&quot;&quot; src=&quot;resources/save_aspect_aba1.png&quot; width=&quot;516&quot; height=&quot;364&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;br /></sectionDescription>
+  </sections>
   <purpose>Gerar os aspectos contendo as métricas de usabilidade e contexto, selecionadas na ferramenta &lt;a class=&quot;elementLink&quot;&#xD;
 href=&quot;./../../ue.process/tools/uxe_metrics_generator_62930FE4.html&quot; guid=&quot;_LLfu0P9vEeGYqaC-voeltA&quot;>UXE Metrics&#xD;
 Generator&lt;/a></purpose>
