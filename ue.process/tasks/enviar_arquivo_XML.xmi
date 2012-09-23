@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-j3qSPa5ZGlXic9xuplWAnQ" name=",_QnJ5cAUFEeKiaswEzVgXLg" guid="-j3qSPa5ZGlXic9xuplWAnQ">
+  <sections xmi:id="_V4urUAUGEeKiaswEzVgXLg" name="Enviar arquivo XML com os valores das métricas" guid="_V4urUAUGEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;PT-BR&quot;>&lt;span lang=&quot;PT-BR&quot;>&lt;span lang=&quot;PT-BR&quot;>Utilizar a aplicação embarcada já com os aspectos de&#xD;
+    usabilidade e contexto.&lt;/span>&lt;/span>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span lang=&quot;PT-BR&quot;>&lt;span lang=&quot;PT-BR&quot;>&lt;span lang=&quot;PT-BR&quot;>Estes arquivos serão enviados automaticamente ao finalizar uma&#xD;
+    tarefa no aplicativo embarcado.&lt;/span>&lt;/span>&lt;/span>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

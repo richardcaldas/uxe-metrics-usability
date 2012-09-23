@@ -10,12 +10,12 @@
 &lt;/p>&#xD;
 &lt;br /></sectionDescription>
   </sections>
-  <sections xmi:id="_gxjDoALEEeKzw4aHyYUzag" name="Abrir o arquivo XML" guid="_gxjDoALEEeKzw4aHyYUzag">
+  <sections xmi:id="_gxjDoALEEeKzw4aHyYUzag" name="Abrir o arquivo XML de mapeamento" guid="_gxjDoALEEeKzw4aHyYUzag">
     <sectionDescription>&lt;p>&#xD;
     Pressionar o botão &lt;b>Open File&lt;/b> para escolher o arquivo XML referente ao mapeamento de uma tarefa.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &lt;img style=&quot;WIDTH: 513px; HEIGHT: 548px&quot; alt=&quot;&quot; src=&quot;resources/open_file.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&#xD;
+    &amp;nbsp;&lt;img style=&quot;WIDTH: 551px; HEIGHT: 574px&quot; alt=&quot;&quot; src=&quot;resources/open_file1.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_pidDIALFEeKzw4aHyYUzag" name="Preencher caminho do pacote" guid="_pidDIALFEeKzw4aHyYUzag">
@@ -41,22 +41,17 @@
   </sections>
   <sections xmi:id="_85EdEALGEeKzw4aHyYUzag" name="Pressionar o botão Genarate Task Metrics." guid="_85EdEALGEeKzw4aHyYUzag">
     <sectionDescription>&lt;p>&#xD;
-    Pressionar o botão &lt;strong>Genarate Task Metrics&lt;/strong>. O resultado desta etapa é a geração automática do Aspecto,&#xD;
-    como pode ser observado na figura abaixo.&#xD;
+    Pressionar o botão &lt;strong>Genarate Task Metrics&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O resultado desta etapa é a geração automática do &lt;strong>Aspecto&lt;/strong>, como pode ser observado na figura abaixo.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &lt;img alt=&quot;&quot; src=&quot;resources/aspect_aba1.png&quot; width=&quot;481&quot; height=&quot;506&quot; />&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_RsWewALHEeKzw4aHyYUzag" name="Localizar o nome do aspecto gerado" guid="_RsWewALHEeKzw4aHyYUzag">
-    <sectionDescription>&lt;p>&#xD;
-    Localizar na janela que apresenta o Aspecto o nome que foi gerado para ele e copiá-lo. Segue abaixo a imagem destacando&#xD;
-    o nome gerado para este aspecto.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &lt;img alt=&quot;&quot; src=&quot;./resources/sel_nomeaspect_aba1.png&quot; width=&quot;549&quot; height=&quot;577&quot; />&#xD;
-&lt;/p>&#xD;
-&lt;br /></sectionDescription>
+    <sectionDescription>&lt;p>%EOL%    Localizar na janela que apresenta o Aspecto o nome que foi gerado para ele e copiá-lo. Segue abaixo a imagem destacando%EOL%    o nome gerado para este aspecto.%EOL%&lt;/p>%EOL%&lt;p>%EOL%    &lt;img style=&quot;WIDTH: 524px; HEIGHT: 557px&quot; alt=&quot;&quot; src=&quot;./resources/sel_nomeaspect_aba1.png&quot; width=&quot;549&quot; height=&quot;577&quot; />%EOL%&lt;/p>%EOL%&lt;br /></sectionDescription>
   </sections>
   <sections xmi:id="_ow5_gALHEeKzw4aHyYUzag" name="Salvar o Aspecto" guid="_ow5_gALHEeKzw4aHyYUzag">
     <sectionDescription>&lt;p>&#xD;

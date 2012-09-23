@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8s4oRXQm4eBXgBFJ2j4BZA" name="usuario_senha_ftp,_gqr5oAHzEeKVhp71VvYcTQ" guid="-8s4oRXQm4eBXgBFJ2j4BZA" changeDate="2012-09-22T18:15:07.964-0300">
+  <purpose>Utilizada para acessar o FTP&amp;nbsp;e baixar o XML com o resultado do mapeamento.</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>
