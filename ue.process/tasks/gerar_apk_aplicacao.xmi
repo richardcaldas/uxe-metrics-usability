@@ -4,16 +4,16 @@
     Esta tarefa propicia a geração do aplicativo com o método &lt;em>onUserInteraction&lt;/em> acoplado as classes que&#xD;
     disponibilizam interações para o usuário final.&#xD;
 &lt;/p></mainDescription>
-  <sections xmi:id="_i2NF4P9JEeGYqaC-voeltA" name="Clicar com o botão direito do mouse no projeto da aplicação" guid="_i2NF4P9JEeGYqaC-voeltA"/>
   <sections xmi:id="_UacvgP9gEeGYqaC-voeltA" name="Selecionar a opção Android Tools" guid="_UacvgP9gEeGYqaC-voeltA">
     <sectionDescription>&lt;p>&#xD;
-    No menu de contexto que é exibido, seleciona a opção &lt;strong>Android Tools.&lt;/strong>&#xD;
+    Clicar com o botão direito do mouse no projeto da aplicação e sem seguida, no menu de contexto que é exibido, selecione&#xD;
+    a opção &lt;strong>Android Tools.&lt;/strong>&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Observe a imagem abaixo:&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &lt;img height=&quot;510&quot; alt=&quot;&quot; src=&quot;resources/android_tools.JPG&quot; width=&quot;516&quot; />&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;./resources/android_tools.JPG&quot; width=&quot;516&quot; height=&quot;510&quot; />&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_wFmn8P9gEeGYqaC-voeltA" name="Abrir a opção “export signed application package”" guid="_wFmn8P9gEeGYqaC-voeltA">

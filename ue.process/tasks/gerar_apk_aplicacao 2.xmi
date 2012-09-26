@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-738UcTiQXEGHLHwyu8EKuQ" name=",_Mn4pkP9JEeGYqaC-voeltA" guid="-738UcTiQXEGHLHwyu8EKuQ" authors="Michel Felipe" changeDate="2012-09-15T12:24:18.171-0300" version="1.0">
+  <sections xmi:id="_2jFmhQT3EeKiaswEzVgXLg" name="Selecionar a opção Android Tools" guid="_2jFmhQT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Clicar com o botão direito do mouse no projeto da aplicação e sem seguida, no menu de contexto que é exibido, selecione&#xD;
+    a opção &lt;strong>Android Tools.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Observe a imagem abaixo:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;./resources/android_tools.JPG&quot; width=&quot;516&quot; height=&quot;510&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_2jFmggT3EeKiaswEzVgXLg" name="Abrir a opção “export signed application package”" guid="_2jFmggT3EeKiaswEzVgXLg">
+    <sectionDescription>Clique na opção &lt;strong>Export Signed Application Package&lt;/strong> para abrir a caixa de diáologo de exportação</sectionDescription>
+  </sections>
+  <sections xmi:id="_2jFmgQT3EeKiaswEzVgXLg" name="Selecione o projeto que será exportado" guid="_2jFmgQT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>%EOL%    Ao selecionar o&amp;nbsp;projeto que será exportado, clique no botão &lt;strong>Next&lt;/strong>. Normalmente o nome correto do%EOL%    projeto já está definido como padrão.&lt;br style=&quot;MARGIN-LEFT: 2em&quot; type=&quot;a&quot; />%EOL%&lt;/p>%EOL%&lt;p>%EOL%    Observe a imagem abaixo:%EOL%&lt;/p>%EOL%&lt;p>%EOL%    &lt;img alt=&quot;&quot; src=&quot;resources/export_android.JPG&quot; width=&quot;470&quot; height=&quot;438&quot; />&lt;br />%EOL%&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_2jFmhwT3EeKiaswEzVgXLg" name="Definir onde está a chave de geração de APKs" guid="_2jFmhwT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Defina onde está a chave de geração de APKs e informe a senha utilizada para a chave escolhida, conforme a imagem&#xD;
+    abaixo:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;472&quot; alt=&quot;&quot; src=&quot;./resources/keystore_selection.JPG&quot; width=&quot;504&quot; />&lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_2jFmgwT3EeKiaswEzVgXLg" name="Escolher um Alias para o projeto" guid="_2jFmgwT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Escolha um Alias para o projeto, confirme a senha da chave informada no passo anterior e pressione o botão&#xD;
+    &lt;strong>Next&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Observe a imagem abaixo:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;496&quot; alt=&quot;&quot; src=&quot;./resources/alias_export_android.JPG&quot; width=&quot;534&quot; />&lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_2jFmhgT3EeKiaswEzVgXLg" name="Defiir o caminho onde o APK será salvo." guid="_2jFmhgT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Defina o caminho onde o &lt;strong>APK&lt;/strong> será salvo e pressione &lt;strong>Finish&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/save_apk_android.JPG&quot; width=&quot;534&quot; height=&quot;496&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>Gerar o aplicativo preparado para ser realizado a instrumentação das tarefas.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

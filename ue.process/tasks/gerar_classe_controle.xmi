@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-E7lFJg-w8p7i_vAeitSDXQ" name=",_e5jvsAHyEeKVhp71VvYcTQ" guid="-E7lFJg-w8p7i_vAeitSDXQ" changeDate="2012-09-18T21:41:08.109-0300">
-  <purpose>Gerar uma classe &lt;strong>Java&lt;/strong> de controle contendo os dados de &lt;strong>FTP&lt;/strong> para transferência do&#xD;
-resultado das métricas de rastreabilidade das tarefas concluídas por um usuário.</purpose>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-E7lFJg-w8p7i_vAeitSDXQ" name=",_e5jvsAHyEeKVhp71VvYcTQ" guid="-E7lFJg-w8p7i_vAeitSDXQ" changeDate="2012-09-22T18:49:55.548-0300">
+  <sections xmi:id="_OqioUATwEeKiaswEzVgXLg" name="Selecionar a aba Control Class" guid="_OqioUATwEeKiaswEzVgXLg">
+    <sectionDescription>Selecionar a aba &lt;strong>Control Class&lt;/strong>.</sectionDescription>
+  </sections>
+  <sections xmi:id="_9K5sMATwEeKiaswEzVgXLg" name="Preencher os campos referentes a FTP Settings" guid="_9K5sMATwEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Preencher os campos referentes ao &lt;strong>FTP Settings&lt;/strong> com os &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../ue.process/workproducts/dados_ftp_830509F.html&quot; guid=&quot;_3Hjn8AH2EeKVhp71VvYcTQ&quot;>Dados de acesso do&#xD;
+    FTP&lt;/a>, conforme figura abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 433px; HEIGHT: 419px&quot; alt=&quot;&quot; src=&quot;resources/ftp_settings.png&quot; width=&quot;454&quot; height=&quot;435&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_S723EATxEeKiaswEzVgXLg" name="Preenher o caminho do pacote" guid="_S723EATxEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Colar o caminho do pacote no campo&amp;nbsp;destacado na imagem abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Este caminho define onde os aspectos serão inseridos. Recomenda-se sempre utilizar o pacote nomeado como&#xD;
+    &lt;strong>br.com.uxeproject.aspects&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/caminho_classe_controle.png&quot; width=&quot;454&quot; height=&quot;435&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_wMgGoATxEeKiaswEzVgXLg" name="Pressionar o Botão Generete Control Class" guid="_wMgGoATxEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Pressionar o Botão &lt;strong>Generate Control Class&lt;/strong> para gerar a classe de controle automaticamente.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O resultado desta etapa é a geração automática do Aspecto, como pode ser observado na figura abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;img style=&quot;WIDTH: 392px; HEIGHT: 413px&quot; alt=&quot;&quot; src=&quot;resources/aspect_classe_controle.png&quot; width=&quot;412&quot;&#xD;
+height=&quot;434&quot; />&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_ItcF0ATyEeKiaswEzVgXLg" name="Pressionar o botão Save Aspect" guid="_ItcF0ATyEeKiaswEzVgXLg">
+    <sectionDescription>Pressionar o botão &lt;strong>Save Aspect&lt;/strong>, e salvar na pasta desejada com o nome &lt;strong>AspectsHelper.java&lt;/strong></sectionDescription>
+  </sections>
+  <purpose>Gerar uma classe &lt;strong>Java&lt;/strong> de controle contendo os&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../ue.process/workproducts/dados_ftp_830509F.html&quot; guid=&quot;_3Hjn8AH2EeKVhp71VvYcTQ&quot;>Dados de acesso do FTP&lt;/a>&#xD;
+para transferência do resultado das métricas de rastreabilidade das tarefas concluídas por um usuário.</purpose>
 </org.eclipse.epf.uma:TaskDescription>

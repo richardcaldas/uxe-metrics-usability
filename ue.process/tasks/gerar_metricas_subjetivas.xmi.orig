@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eW5uzDtle_OWmnylyA8F7g" name=",_q-kroAHwEeKVhp71VvYcTQ" guid="-eW5uzDtle_OWmnylyA8F7g" changeDate="2012-09-22T15:24:20.484-0300">
+<<<<<<< HEAD
+  <mainDescription>Teste alteração de descrição para o GIT</mainDescription>
+=======
+  <sections xmi:id="_CsNK4ATsEeKiaswEzVgXLg" name="Clicar na aba Subjetive Metrics" guid="_CsNK4ATsEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Com a ferramenta &lt;a class=&quot;elementLink&quot; href=&quot;./../../ue.process/tools/uxe_metrics_generator_62930FE4.html&quot;&#xD;
+    guid=&quot;_LLfu0P9vEeGYqaC-voeltA&quot;>UXE Metrics Generator&lt;/a>&amp;nbsp;aberta, clicar na aba &lt;strong>Subjective&#xD;
+    Metrics&lt;/strong>, conforme a imagem abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 472px; HEIGHT: 456px&quot; alt=&quot;&quot; src=&quot;resources/subjective_metrics.png&quot; width=&quot;501&quot; height=&quot;481&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_UZiS0ATtEeKiaswEzVgXLg" name="Preencher o campo Application ID" guid="_UZiS0ATtEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Preencher o campo Application ID com um número que será utilizado para identificar a Aplicação no Banco de Dados.&lt;br />&#xD;
+    Como no exemplo apresentado na tabela abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;table style=&quot;WIDTH: 202px; HEIGHT: 90px&quot; title=&quot;&quot; border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;202&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;th abbr=&quot;&quot; scope=&quot;col&quot;>&#xD;
+                ID&#xD;
+            &lt;/th>&#xD;
+            &lt;th abbr=&quot;&quot; scope=&quot;col&quot;>&#xD;
+                Application&#xD;
+            &lt;/th>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                1&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                MILEAGE&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                2&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                CUBED&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                3&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                SHUFFLE&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&#xD;
+&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_7jjbQATtEeKiaswEzVgXLg" name="Preencher o campo &quot;Which questions will be answered by the user?&quot;" guid="_7jjbQATtEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Preencher o campo texto &quot;&lt;strong>Which questions will be answered by the user?&quot;&lt;/strong>&lt;br />&#xD;
+    Neste campo&amp;nbsp;devem ser definidas todas as questões que serão disponibilizadas pelo aplicativo para obter o&#xD;
+    sentimento do usuário com relação a aplicação que está sendo utilizada.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Lembrando que as questões devem ser separadas por &lt;em>&lt;strong>ENTER.&lt;/strong>&lt;/em>&lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_RuVbYATuEeKiaswEzVgXLg" name="Preenher o caminho do pacote" guid="_RuVbYATuEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Colar o caminho do pacote no campo destacado na imagem abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Este caminho define onde os aspectos serão inseridos. Recomenda-se sempre utilizar o pacote nomeado como&#xD;
+    &lt;strong>br.com.uxeproject.aspects&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 539px; HEIGHT: 512px&quot; alt=&quot;&quot; src=&quot;resources/subjective_metrics_.png&quot; width=&quot;550&quot; height=&quot;527&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_nx7OYATuEeKiaswEzVgXLg" name="Pressionar o botão Generate Subjective Metric " guid="_nx7OYATuEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Pressionar o botão &lt;strong>Generate Subjective Metric&lt;/strong> para gerar o Aspecto com as métricas subjetivas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O resultado desta etapa é a geração automática do Aspecto, como pode ser observado na figura abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 455px; HEIGHT: 482px&quot; alt=&quot;&quot; src=&quot;resources/aspect_subjective.png&quot; width=&quot;468&quot; height=&quot;492&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_8H1XkATuEeKiaswEzVgXLg" name="Localizar o nome do aspecto gerado" guid="_8H1XkATuEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Localizar na janela que apresenta o aspecto o nome que foi gerado para ele e copiá-lo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Segue imagem abaixo destacando o nome gerado para o aspecto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 497px; HEIGHT: 535px&quot; alt=&quot;&quot; src=&quot;resources/nome_aspect_subjective.png&quot; width=&quot;524&quot; height=&quot;551&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_V5bGUATvEeKiaswEzVgXLg" name="Pressionar o botão Save Aspect" guid="_V5bGUATvEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Pressionar o botão &lt;strong>Save Aspect&lt;/strong>, localizar a pasta onde será salvo o aspecto e colocar o nome copiado&#xD;
+    no passo anterior no campo &lt;strong>File Name&lt;/strong> e digitar a extensão&#xD;
+    &lt;strong>.aj&lt;/strong>,&lt;strong>&amp;nbsp;&lt;/strong>e posteriormente clicar no botão &lt;strong>Save&lt;/strong>, conforme imagem&#xD;
+    abaixo.&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 460px; HEIGHT: 329px&quot; alt=&quot;&quot; src=&quot;resources/save_subjective_metrics.png&quot; width=&quot;487&quot; height=&quot;344&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+>>>>>>> 55c7c0fb14d5ec62b340a226329ac94260a77221
+  <purpose>Gerar Aspecto com métricas subjetivas definidas na ferramenta &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../ue.process/tools/uxe_metrics_generator_62930FE4.html&quot; guid=&quot;_LLfu0P9vEeGYqaC-voeltA&quot;>UXE Metrics&#xD;
+Generator&lt;/a></purpose>
+</org.eclipse.epf.uma:TaskDescription>

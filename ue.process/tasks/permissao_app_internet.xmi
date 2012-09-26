@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gLvxcrV0w29d0lPQ6xs8DA" name=",_3n1vcAT0EeKiaswEzVgXLg" guid="-gLvxcrV0w29d0lPQ6xs8DA" changeDate="2012-09-22T19:21:13.516-0300" version="1.0">
+  <sections xmi:id="_SBLasAT1EeKiaswEzVgXLg" name="Pressionar sobre o arquivo AndroidManifest.xml" guid="_SBLasAT1EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Pressionar sobre o arquivo &lt;strong>AndroidManifest.xml&lt;/strong>, conforme imagem abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 255px; HEIGHT: 377px&quot; alt=&quot;&quot; src=&quot;resources/android_manifest.png&quot; width=&quot;266&quot; height=&quot;387&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_oThbYAT1EeKiaswEzVgXLg" name="Abrir a aba Permissions" guid="_oThbYAT1EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Abrir a aba &lt;strong>Permissions&lt;/strong>,&amp;nbsp;conforme imagem abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;img alt=&quot;&quot; src=&quot;./resources/permissions.png&quot; width=&quot;600&quot; height=&quot;242&quot; />&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_Jp9boAT2EeKiaswEzVgXLg" name="Adicionar permissoões" guid="_Jp9boAT2EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Pressione o botão &lt;strong>Add&lt;/strong>,&amp;nbsp;escolha a opção &lt;strong>User Permission&lt;/strong> e pressione o botão&#xD;
+    &lt;strong>OK&lt;/strong>, conforme imagem abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 440px; HEIGHT: 517px&quot; alt=&quot;&quot; src=&quot;resources/add_permission.png&quot; width=&quot;497&quot; height=&quot;546&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_m2tpsAT2EeKiaswEzVgXLg" name="Selecionar os nomes das permissões" guid="_m2tpsAT2EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Selecione as seguintes opções no campo &lt;strong>Name&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 532px; HEIGHT: 334px&quot; alt=&quot;&quot; src=&quot;./resources/name_permission.png&quot; width=&quot;600&quot; height=&quot;373&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Android.permission.ACCESS_CORASE_LOCATION&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Android.permission.WRITE_EXTERNAL_STORAGE&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Android.permission.VIBRATE&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Android.permission.INTERNAT&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Android.permission.READ_PHONE_STATE&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Após cada seleção pressione o botão &lt;strong>Add&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    No final a janela de permissões deve estar como apresentado na figura abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 516px; HEIGHT: 232px&quot; alt=&quot;&quot; src=&quot;./resources/list_permissions.png&quot; width=&quot;571&quot; height=&quot;246&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_nICNwAT3EeKiaswEzVgXLg" name="Salvar as opções escolhidas" guid="_nICNwAT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Utilize a combinação de teclas &lt;b>CTRL+S&lt;/b> para salvar as opções.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    É necessário aplicar as permissões para que o aplicativo possa enviar o resultado da instrumentação de suas tarefas&#xD;
+    para o FTP.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

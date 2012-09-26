@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2m4D7VYzZYVWu2rsQNuk4Q" name="new_artifact,_jrVn8AT4EeKiaswEzVgXLg" guid="-2m4D7VYzZYVWu2rsQNuk4Q" changeDate="2012-09-22T18:02:37.500-0300">
+  <purpose>&lt;p>&#xD;
+    Coletar dados das métricas&amp;nbsp;subjetiva dos usuários.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

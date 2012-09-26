@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4waf1qC5YxmJFMEWxkNsTw" name="dados_ftp,_3Hjn8AH2EeKVhp71VvYcTQ" guid="-4waf1qC5YxmJFMEWxkNsTw" changeDate="2012-09-22T18:12:52.219-0300">
+  <purpose>&lt;p>&#xD;
+    Utilizada na sessão de &lt;strong>Control Class&lt;/strong> na ferramenta &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../ue.process/tools/uxe_metrics_generator_62930FE4.html&quot; guid=&quot;_LLfu0P9vEeGYqaC-voeltA&quot;>UXE Metrics&#xD;
+    Generator&lt;/a>.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

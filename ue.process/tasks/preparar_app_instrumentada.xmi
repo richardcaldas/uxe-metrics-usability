@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b2WPFnBEDDNtkAufAxHRHQ" name=",_Tj1noATyEeKiaswEzVgXLg" guid="-b2WPFnBEDDNtkAufAxHRHQ">
+  <sections xmi:id="_lfkNYATyEeKiaswEzVgXLg" name="Criar pacote" guid="_lfkNYATyEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Criar o pacote &lt;strong>br.com.uxeproject.aspects&lt;/strong> na pasta &lt;strong>SRC&lt;/strong> da Aplicação que será&#xD;
+    instrumentada.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Clicar com o botão direito na pasta &lt;strong>SRC&lt;/strong> e escolher a opção &lt;strong>New&lt;/strong> e posteriormente a&#xD;
+    opção &lt;strong>Package&lt;/strong> conforme ilustra a imagem abaixo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/new_package.png&quot; width=&quot;600&quot; height=&quot;224&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_DPfZ8ATzEeKiaswEzVgXLg" name="Escrever nome do pacote" guid="_DPfZ8ATzEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Na janela apresentada abaixo, escreva o nome do pacote no campo &lt;strong>Name&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Use como padrão &lt;strong>br.com.uxeproject.aspects&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/name_new_package.png&quot; width=&quot;475&quot; height=&quot;452&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_eBHpYATzEeKiaswEzVgXLg" name="Copiar os Aspectos" guid="_eBHpYATzEeKiaswEzVgXLg">
+    <sectionDescription>Copie os Aspectos e as Classes criadas automaticamente nas tarefas anteriores para o &lt;strong>pacote&#xD;
+br.com.uxeproject.aspects&lt;/strong>.</sectionDescription>
+  </sections>
+  <sections xmi:id="_soeUUATzEeKiaswEzVgXLg" name="Copiar o Aspecto UIMethods.aj" guid="_soeUUATzEeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Copiar o Aspecto &lt;strong>UIMethods.aj&lt;/strong> para o &lt;strong>pacote br.com.uxeproject.aspects&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Este arquivo se encontra no pacote &lt;strong>br.com.uxeproject.aspects&lt;/strong> do projeto da aplicação que foi gerada&#xD;
+    para criar o mapeamento das tarefas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O Arquivo &lt;strong>UIMethods.aj&lt;/strong> permite que a aplicação possa identificar as ações do usuário da mesma forma&#xD;
+    que foi realizado no momento do mapeamento das tarefas. A figura abaixo mostra os Aspectos de Rastreabilidade e a&#xD;
+    classe &lt;strong>AspectsHelper&lt;/strong> dentro do pacote &lt;strong>br.com.uxeproject.aspects&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 376px; HEIGHT: 380px&quot; alt=&quot;&quot; src=&quot;resources/arquivos_classes_aspects.png&quot; width=&quot;420&quot;&#xD;
+    height=&quot;420&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_CaU3EAT0EeKiaswEzVgXLg" name="Copiar as imagens" guid="_CaU3EAT0EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Copiar as figuras &lt;strong>smiley*.png&lt;/strong> que servirão de respostas subjetivas para a pasta&#xD;
+    &lt;strong>res/drawabll&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Elas estão no projeto &lt;strong>uxe-project-metrics-generator&lt;/strong> na pasta &lt;strong>/resources&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 300px; HEIGHT: 558px&quot; alt=&quot;&quot; src=&quot;./resources/smyles.png&quot; width=&quot;325&quot; height=&quot;579&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_mAHq0AT0EeKiaswEzVgXLg" name="Copiar o arquivo subjective_question.xml" guid="_mAHq0AT0EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Copiar o arquivo &lt;strong>subjective_question.xml&lt;/strong> para a pasta &lt;strong>res/layout&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Este arquivo está na pasta &lt;strong>/resources&lt;/strong> do projeto &lt;strong>uxe-project-metrics- generator&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 297px; HEIGHT: 574px&quot; alt=&quot;&quot; src=&quot;resources/subjective_question_xml.png&quot; width=&quot;319&quot;&#xD;
+    height=&quot;591&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

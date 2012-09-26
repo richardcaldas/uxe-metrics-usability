@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lnJ7E2dMnPIter3tMUSlCQ" name=",_ONIKQP9jEeGYqaC-voeltA" guid="-lnJ7E2dMnPIter3tMUSlCQ" changeDate="2012-09-15T15:53:25.234-0300">
+  <sections xmi:id="_-M4pdAT3EeKiaswEzVgXLg" name="Conectar o smartphone ao computador." guid="_-M4pdAT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Conecte o smartphone ao computador que foi salvo o &lt;strong>APK&lt;/strong> através de um cabo &lt;strong>USB&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_-NCacQT3EeKiaswEzVgXLg" name="Habilitar o Smartphone para se conectar ao computador." guid="_-NCacQT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Habilite o Smartphone para se conectar ao computador. Abra a área de notificação e escolha a opção &lt;strong>“USB&#xD;
+    conectado”.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Observe a imagem abaixo:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;309&quot; alt=&quot;&quot; src=&quot;resources/usb_conectado.jpg&quot; width=&quot;186&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_-M4pcQT3EeKiaswEzVgXLg" name="Pressionar o botão “Ligar armazenamento USB”." guid="_-M4pcQT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Pressionar o botão “Ligar armazenamento USB” como mostra&amp;nbsp;a imagem abaixo:&lt;br />&#xD;
+    &lt;br />&#xD;
+    &lt;img height=&quot;308&quot; alt=&quot;&quot; src=&quot;resources/ligar_usb.jpg&quot; width=&quot;186&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_-NCacAT3EeKiaswEzVgXLg" name="Copiar o APK da Ferramenta Automatic Task Description." guid="_-NCacAT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Copiar o APK da Ferramenta &lt;strong>Automatic Task Description&lt;/strong> que fará o mapeamento da aplicação a ser&#xD;
+    avaliada.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_-M4pcwT3EeKiaswEzVgXLg" name="Instalar a Ferramenta Automatic Task Description." guid="_-M4pcwT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Instalar a Ferramenta &lt;strong>Automatic Task Description&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;435&quot; alt=&quot;&quot; src=&quot;resources/install_atd.JPG&quot; width=&quot;600&quot; />&lt;br />&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_-M4pcgT3EeKiaswEzVgXLg" name="Copiar o APK da Aplicação." guid="_-M4pcgT3EeKiaswEzVgXLg">
+    <sectionDescription>&lt;p>&#xD;
+    Copiar o APK da Aplicação que será avaliada.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_-NCacgT3EeKiaswEzVgXLg" name="Copiar o APK da Aplicação." guid="_-NCacgT3EeKiaswEzVgXLg">
+    <sectionDescription>Copiar o APK da Aplicação que será avaliada.</sectionDescription>
+  </sections>
+  <purpose>Possibilitar que as tarefas que serão avaliadas sejam instrumentadas..</purpose>
+</org.eclipse.epf.uma:TaskDescription>
