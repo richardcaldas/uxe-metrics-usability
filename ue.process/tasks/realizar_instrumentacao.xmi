@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GoluKQV0yZcYKoGDGzZ9Qw" name=",_PSWY4AhWEeK4B97u5O_d4A" guid="-GoluKQV0yZcYKoGDGzZ9Qw">
+  <sections xmi:id="_y4cHkAhWEeK4B97u5O_d4A" name="Acessar o aplicativo a ser instrumentado" guid="_y4cHkAhWEeK4B97u5O_d4A">
+    <sectionDescription>&lt;p>&#xD;
+    Após realizar a tarefa &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../ue.process/tasks/instalar_aplicativo_smartphone_422D1F5E.html&quot; guid=&quot;_-M4pcAT3EeKiaswEzVgXLg&quot;>Instalar&#xD;
+    aplicativo no smartphone&lt;/a>&amp;nbsp;, acesse a seção de aplicativos do smarthphone e escolhe a aplicação com os aspectos&#xD;
+    de rastreabilidade.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_ICEMsAhXEeK4B97u5O_d4A" name="Executar Tarefas do aplicativo" guid="_ICEMsAhXEeK4B97u5O_d4A">
+    <sectionDescription>&lt;p>&#xD;
+    Executar as tarefas do aplicativo(clique no botão de salvar, eventos de multitouch e etc...)&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_qi3HQAhXEeK4B97u5O_d4A" name="Enviar arquivo XML com os valores das métricas" guid="_qi3HQAhXEeK4B97u5O_d4A">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;PT-BR&quot;>&lt;span lang=&quot;PT-BR&quot;>&lt;span lang=&quot;PT-BR&quot;>Ao utilizar a aplicação embarcada já com os aspectos de&#xD;
+    usabilidade e contexto,&amp;nbsp;&lt;/span>&lt;/span>&lt;/span>&lt;span lang=&quot;PT-BR&quot;>&lt;span lang=&quot;PT-BR&quot;>&lt;span lang=&quot;PT-BR&quot;>arquivos XML&#xD;
+    contendo os valores do rastreamento&amp;nbsp;serão enviados automaticamente ao finalizar uma tarefa no aplicativo&#xD;
+    embarcado, ao finalizar uma determinada tarefa&lt;/span>&lt;/span>&lt;/span>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>
