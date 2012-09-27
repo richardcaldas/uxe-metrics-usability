@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eW5uzDtle_OWmnylyA8F7g" name=",_q-kroAHwEeKVhp71VvYcTQ" guid="-eW5uzDtle_OWmnylyA8F7g" changeDate="2012-09-22T15:24:20.484-0300">
-  <mainDescription>Teste alteração de descrição para o GIT</mainDescription>
-  <purpose>Gerar Aspecto com métricas subjetivas definidas na ferramenta &lt;a class=&quot;elementLink&quot;&#xD;
-href=&quot;./../../ue.process/tools/uxe_metrics_generator_62930FE4.html&quot; guid=&quot;_LLfu0P9vEeGYqaC-voeltA&quot;>UXE Metrics&#xD;
-Generator&lt;/a></purpose>
-</org.eclipse.epf.uma:TaskDescription>
