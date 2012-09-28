@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliveryProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QtMndmP9KU1s3x4ZRA13kA" name="instrumentacao_tarefas,_Dg_kUQhOEeK4B97u5O_d4A" guid="-QtMndmP9KU1s3x4ZRA13kA">
+  <mainDescription>Fluxo de Processos de &lt;strong>Instrumentação das Tarefas&lt;/strong></mainDescription>
+</org.eclipse.epf.uma:DeliveryProcessDescription>

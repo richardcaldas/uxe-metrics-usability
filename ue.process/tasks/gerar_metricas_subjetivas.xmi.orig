@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eW5uzDtle_OWmnylyA8F7g" name=",_q-kroAHwEeKVhp71VvYcTQ" guid="-eW5uzDtle_OWmnylyA8F7g" changeDate="2012-09-22T15:24:20.484-0300">
+<<<<<<< HEAD
+  <mainDescription>Teste alteração de descrição para o GIT</mainDescription>
+=======
   <sections xmi:id="_CsNK4ATsEeKiaswEzVgXLg" name="Clicar na aba Subjetive Metrics" guid="_CsNK4ATsEeKiaswEzVgXLg">
     <sectionDescription>&lt;p>&#xD;
     Com a ferramenta &lt;a class=&quot;elementLink&quot; href=&quot;./../../ue.process/tools/uxe_metrics_generator_62930FE4.html&quot;&#xD;
@@ -112,6 +115,7 @@
     &lt;img style=&quot;WIDTH: 460px; HEIGHT: 329px&quot; alt=&quot;&quot; src=&quot;resources/save_subjective_metrics.png&quot; width=&quot;487&quot; height=&quot;344&quot; />&#xD;
 &lt;/p></sectionDescription>
   </sections>
+>>>>>>> 55c7c0fb14d5ec62b340a226329ac94260a77221
   <purpose>Gerar Aspecto com métricas subjetivas definidas na ferramenta &lt;a class=&quot;elementLink&quot;&#xD;
 href=&quot;./../../ue.process/tools/uxe_metrics_generator_62930FE4.html&quot; guid=&quot;_LLfu0P9vEeGYqaC-voeltA&quot;>UXE Metrics&#xD;
 Generator&lt;/a></purpose>

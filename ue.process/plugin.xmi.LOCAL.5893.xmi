@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_FEjjcP53EeGWzL80hkLJyA" guid="_FEjjcP53EeGWzL80hkLJyA">
+    <subManagers xmi:id="_eat1Yf9yEeGYqaC-voeltA" href="uma://_eaRwgP9yEeGYqaC-voeltA#_eat1Yf9yEeGYqaC-voeltA"/>
+    <resourceDescriptors xmi:id="_0f-kkP57EeGWzL80hkLJyA" id="-k-tqL6HplMM6gv7FGnw7Ug" uri="roles/equipe_ihc.xmi"/>
+    <resourceDescriptors xmi:id="_29X_0P6WEeGWzL80hkLJyA" id="-NgHX-0CAEBmxCMzuF9T2JQ" uri="workproducts/aspectos_mapeamento.xmi"/>
+    <resourceDescriptors xmi:id="_ltsHEP6eEeGWzL80hkLJyA" id="-HcY3-tr3ejZAtK0jjBd95w" uri="tasks/caminho_projeto_aplicacao.xmi"/>
+    <resourceDescriptors xmi:id="_5V-8UP6eEeGWzL80hkLJyA" id="-Y2VX9KqYiMU-a9ZB4MUoSg" uri="disciplines/executar_ferramenta_mag.xmi"/>
+    <resourceDescriptors xmi:id="_MghBEP6rEeGWzL80hkLJyA" id="-I2lwRQFI1DSF2mVyk_JGKw" uri="tools/ferramenta_mag.xmi"/>
+    <resourceDescriptors xmi:id="_Y4HgAf7kEeGIbqCwuZBwYg" id="-A82iPujFKnb19GC6W3fePA" uri="tasks/caminho_gerar_aspectos.xmi"/>
+    <resourceDescriptors xmi:id="_KXWv0v7lEeGIbqCwuZBwYg" id="-qqqHwoSvHg6ayy-dXOtqLg" uri="tasks/realizar_weaver.xmi"/>
+    <resourceDescriptors xmi:id="_1KyO8f7lEeGIbqCwuZBwYg" id="-oCZP6y-rXjU5VWcCNXKAJw" uri="workproducts/caminho_aplicacao.xmi"/>
+    <resourceDescriptors xmi:id="_b0fWoP9JEeGYqaC-voeltA" id="-REOjGN-DIdklr_l9kua5tQ" uri="tasks/gerar_apk_aplicacao.xmi"/>
+    <resourceDescriptors xmi:id="_Y-bTAP9KEeGYqaC-voeltA" id="-vAbv7yWszZNvJJuv4n4tNA" uri="tools/eclipse.xmi"/>
+    <resourceDescriptors xmi:id="_TknUsv9VEeGYqaC-voeltA" id="-3xUc-kwkNjct4WB0PKgUIQ" uri="roles/desenvolvedor.xmi"/>
+    <resourceDescriptors xmi:id="_VWI_4P9ZEeGYqaC-voeltA" id="-ZMb3fhOERSlWvzrbUJJmoA" uri="workproducts/projeto_aplicacao.xmi"/>
+    <resourceDescriptors xmi:id="_iBS8gf9cEeGYqaC-voeltA" id="-bRJR3YtahIZolaFstLa5yg" uri="workproducts/aspecto_template_uilistener.xmi"/>
+    <resourceDescriptors xmi:id="_j6NUAf9eEeGYqaC-voeltA" id="-BzPDBNW3xQf0MREhW3mcgg" uri="workproducts/arquivos_bytecode_aplicacao.xmi"/>
+    <resourceDescriptors xmi:id="_3vrNIf9fEeGYqaC-voeltA" id="-kL7Jwegi3sbejqZ1vOjyrQ" uri="workproducts/apk_aplicacao.xmi"/>
+    <resourceDescriptors xmi:id="_duveAf9jEeGYqaC-voeltA" id="-9BI94_TvtnP7U2qSkWOYpg" uri="tasks/instalar_aplicativo_smartphone.xmi"/>
+    <resourceDescriptors xmi:id="_tiWj4v9nEeGYqaC-voeltA" id="-AsigDhuqdgrrD0dX7Ef9Jw" uri="tasks/realizar_mapeamento.xmi"/>
+    <resourceDescriptors xmi:id="_SKMOAf9pEeGYqaC-voeltA" id="-C11Eyegq_DX2A9PB8cw9MQ" uri="tools/atd.xmi"/>
+    <resourceDescriptors xmi:id="_J0nbcv9vEeGYqaC-voeltA" id="-HHu12ZXnr8lWGHxj1olc0w" uri="workproducts/arquivo_xml_mapeamento.xmi"/>
+    <resourceDescriptors xmi:id="_Vo4eQf9wEeGYqaC-voeltA" id="--JFWGMgo12lZNUWqLE2q8w" uri="tools/uxe_metrics_generator.xmi"/>
+    <resourceDescriptors xmi:id="_eaRwg_9yEeGYqaC-voeltA" id="_eaRwgP9yEeGYqaC-voeltA" uri="deliveryprocesses/mapeamento_tarefas/model.xmi"/>
+    <resourceDescriptors xmi:id="_wAuJIgHrEeKVhp71VvYcTQ" id="-GpXU3ZBhbNWfti1h2j-u6g" uri="tasks/acessar_ftp.xmi"/>
+    <resourceDescriptors xmi:id="_EmWecQHuEeKVhp71VvYcTQ" id="-T8qgiUMH9vMal8hvIJTqAQ" uri="tasks/gerar_aspectos_usabilidade_contexto.xmi"/>
+    <resourceDescriptors xmi:id="_FAEeogHxEeKVhp71VvYcTQ" id="-eW5uzDtle_OWmnylyA8F7g" uri="tasks/gerar_metricas_subjetivas.xmi"/>
+    <resourceDescriptors xmi:id="_4ovDoAHyEeKVhp71VvYcTQ" id="-E7lFJg-w8p7i_vAeitSDXQ" uri="tasks/gerar_classe_controle.xmi"/>
+    <resourceDescriptors xmi:id="_aHlHEAH1EeKVhp71VvYcTQ" id="-qPbRXZWqqPzfzwBicaoNlw" uri="workproducts/aspectos_usabilidade_contexto.xmi"/>
+    <resourceDescriptors xmi:id="_vagMgATyEeKiaswEzVgXLg" id="-b2WPFnBEDDNtkAufAxHRHQ" uri="tasks/preparar_app_instrumentada.xmi"/>
+    <resourceDescriptors xmi:id="_WZnakAT1EeKiaswEzVgXLg" id="-gLvxcrV0w29d0lPQ6xs8DA" uri="tasks/permissao_app_internet.xmi"/>
+    <resourceDescriptors xmi:id="_2kIIUQT3EeKiaswEzVgXLg" id="-738UcTiQXEGHLHwyu8EKuQ" uri="tasks/gerar_apk_aplicacao%202.xmi"/>
+    <resourceDescriptors xmi:id="_-NyBUQT3EeKiaswEzVgXLg" id="-lnJ7E2dMnPIter3tMUSlCQ" uri="tasks/instalar_aplicativo_smartphone%202.xmi"/>
+    <resourceDescriptors xmi:id="_1-IC0AT4EeKiaswEzVgXLg" id="-2m4D7VYzZYVWu2rsQNuk4Q" uri="workproducts/aspectos_metricas_subjetivas.xmi"/>
+    <resourceDescriptors xmi:id="_DZk7UAT5EeKiaswEzVgXLg" id="-We7ck9rF-mtUp91KRV--SQ" uri="workproducts/apk_aplicacao_instrumentacao.xmi"/>
+    <resourceDescriptors xmi:id="_V22H4QT5EeKiaswEzVgXLg" id="-relFasfQynTOGYkV29QNBQ" uri="workproducts/arquivos_bytecode_aplicacao%202.xmi"/>
+    <resourceDescriptors xmi:id="_fg-OYQT6EeKiaswEzVgXLg" id="-4waf1qC5YxmJFMEWxkNsTw" uri="workproducts/dados_ftp.xmi"/>
+    <resourceDescriptors xmi:id="_tRuogQT6EeKiaswEzVgXLg" id="-8s4oRXQm4eBXgBFJ2j4BZA" uri="workproducts/usuario_senha_ftp.xmi"/>
+    <resourceDescriptors xmi:id="_DG12cQUCEeKiaswEzVgXLg" id="-dALjEqhuFSGe8smrTWXesQ" uri="workproducts/aspectos_classe_controle.xmi"/>
+    <resourceDescriptors xmi:id="_julIMAUDEeKiaswEzVgXLg" id="-FiYxFmpDsX-EunlC7SAB1A" uri="workproducts/projeto_aplicacao_instrumentada.xmi"/>
+    <resourceDescriptors xmi:id="_fOReYAUGEeKiaswEzVgXLg" id="-j3qSPa5ZGlXic9xuplWAnQ" uri="tasks/enviar_arquivo_XML.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_FEhHMP53EeGWzL80hkLJyA" name="ue.process" guid="_FEhHMP53EeGWzL80hkLJyA" presentationName="Fluxos e processos envolvendo a Análise de Usabilidade de Aplicativos Móveis" briefDescription="Descrição dos Processos para realizar a Análise de Usabilidade de Aplicativos Móveis" authors="Michel Felipe; Artur Kronbauer" changeDate="2012-09-18T20:37:26.500-0300" changeDescription="Criação do Projeto" version="1.0">
+    <methodElementProperty xmi:id="_heZt4P53EeGWzL80hkLJyA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHMf53EeGWzL80hkLJyA" name="Content" guid="_FEhHMf53EeGWzL80hkLJyA">
+      <methodElementProperty xmi:id="_iKUYsP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHMv53EeGWzL80hkLJyA" name="Categories" guid="_FEhHMv53EeGWzL80hkLJyA">
+        <methodElementProperty xmi:id="_iKU_wP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHM_53EeGWzL80hkLJyA" name="Domains" guid="_FEhHM_53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKVm0P53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHNP53EeGWzL80hkLJyA" name="Disciplines" guid="_FEhHNP53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKWN4P53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_zFICQP6eEeGWzL80hkLJyA" name="executar_ferramenta_mag" guid="_zFICQP6eEeGWzL80hkLJyA" presentationName="Executar a Ferramenta Mapping Aspect Generator (MAG)" briefDescription="Executar a ferramenta MAG para gerar os aspectos de mapeamento no projeto da aplicação que será analisada">
+            <methodElementProperty xmi:id="_5V9HIP6eEeGWzL80hkLJyA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Y2VX9KqYiMU-a9ZB4MUoSg" href="uma://-Y2VX9KqYiMU-a9ZB4MUoSg#-Y2VX9KqYiMU-a9ZB4MUoSg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHNf53EeGWzL80hkLJyA" name="RoleSets" guid="_FEhHNf53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKW08P53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHNv53EeGWzL80hkLJyA" name="WP Types" guid="_FEhHNv53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKXcAP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHN_53EeGWzL80hkLJyA" name="Tools" guid="_FEhHN_53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKYDEP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_nQf8oP6pEeGWzL80hkLJyA" name="ferramenta_mag" guid="_nQf8oP6pEeGWzL80hkLJyA" presentationName="Ferramenta MAG" briefDescription="Aplicação utilizada para gerar os aspectos de mapeamento">
+            <methodElementProperty xmi:id="_rlu3gP6pEeGWzL80hkLJyA" name="me_edited" value="true"/>
+            <presentation xmi:id="-I2lwRQFI1DSF2mVyk_JGKw" href="uma://-I2lwRQFI1DSF2mVyk_JGKw#-I2lwRQFI1DSF2mVyk_JGKw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_nLqqQP9JEeGYqaC-voeltA" name="eclipse" guid="_nLqqQP9JEeGYqaC-voeltA" presentationName="Eclipse - Integrated Development Environment" briefDescription="Software que fornece um ambiente desevolvimento">
+            <methodElementProperty xmi:id="_70DqkP9JEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="-vAbv7yWszZNvJJuv4n4tNA" href="uma://-vAbv7yWszZNvJJuv4n4tNA#-vAbv7yWszZNvJJuv4n4tNA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_asvTUP9oEeGYqaC-voeltA" name="atd" guid="_asvTUP9oEeGYqaC-voeltA" presentationName="Automatic Task Description" briefDescription="Esta ferramenta permite capturar os métodos executados durante a interação do usuário e permite a definição dos valores de referência da tarefa." toolMentors="__5OioP9pEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_roMu4P9oEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="-C11Eyegq_DX2A9PB8cw9MQ" href="uma://-C11Eyegq_DX2A9PB8cw9MQ#-C11Eyegq_DX2A9PB8cw9MQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_LLfu0P9vEeGYqaC-voeltA" name="uxe_metrics_generator" guid="_LLfu0P9vEeGYqaC-voeltA" presentationName="UXE Metrics Generator" briefDescription="Ferramenta que implementa a biblioteca de métricas e gera os aspectos de rastreabilidade.">
+            <methodElementProperty xmi:id="_Z8rEIP9vEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="--JFWGMgo12lZNUWqLE2q8w" href="uma://--JFWGMgo12lZNUWqLE2q8w#--JFWGMgo12lZNUWqLE2q8w"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHOP53EeGWzL80hkLJyA" name="StandardCategories" guid="_FEhHOP53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKYqIP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHOf53EeGWzL80hkLJyA" name="CustomCategories" guid="_FEhHOf53EeGWzL80hkLJyA">
+          <methodElementProperty xmi:id="_iKYqIf53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHOv53EeGWzL80hkLJyA" name="Hidden" guid="_FEhHOv53EeGWzL80hkLJyA">
+            <methodElementProperty xmi:id="_iKZRMP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_FEhHO_53EeGWzL80hkLJyA" name="Categorias Customizadas" guid="_FEhHO_53EeGWzL80hkLJyA" categorizedElements="_eV0ZcAFCEeK9VZwsGqSMqg"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_eV0ZcAFCEeK9VZwsGqSMqg" name="processos_entrega" guid="_eV0ZcAFCEeK9VZwsGqSMqg" presentationName="Processos de Entrega">
+            <methodElementProperty xmi:id="_jUtVUAFCEeK9VZwsGqSMqg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <methodElementProperty xmi:id="_sU7_sAFCEeK9VZwsGqSMqg" name="include" value="DeliveryProcess"/>
+            <methodElementProperty xmi:id="_0BkUMAFCEeK9VZwsGqSMqg" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_eaRwgP9yEeGYqaC-voeltA#_eaRwgf9yEeGYqaC-voeltA"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FEhHPP53EeGWzL80hkLJyA" name="CoreContent" guid="_FEhHPP53EeGWzL80hkLJyA">
+        <methodElementProperty xmi:id="_iKZ4QP53EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DcIXoP54EeGWzL80hkLJyA" name="gerar_aspectos" guid="_DcIXoP54EeGWzL80hkLJyA" presentationName="Gerar Aspectos de Mapeamento" briefDescription="Tarefas e processos para a geração dos aspectos de mapeamento&#xD;&#xA;">
+          <methodElementProperty xmi:id="_FC99IP55EeGWzL80hkLJyA" name="pakage_supporting" value="false"/>
+          <methodElementProperty xmi:id="_FTCZcP55EeGWzL80hkLJyA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_V8e38P55EeGWzL80hkLJyA" name="equipe_ihc" guid="_V8e38P55EeGWzL80hkLJyA" presentationName="Equipe de IHC" briefDescription="Analistas de IHC(Interação Homem Computador) e/ou Desenvolvedores que possuem conhecimentos na plataforma Android" responsibleFor="_nT4moP6PEeGWzL80hkLJyA _myMYwP7lEeGIbqCwuZBwYg _Hb8V4P9ZEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_rde7QP55EeGWzL80hkLJyA" name="me_edited" value="true"/>
+            <presentation xmi:id="-k-tqL6HplMM6gv7FGnw7Ug" href="uma://-k-tqL6HplMM6gv7FGnw7Ug#-k-tqL6HplMM6gv7FGnw7Ug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nT4moP6PEeGWzL80hkLJyA" name="aspectos_mapeamento" guid="_nT4moP6PEeGWzL80hkLJyA" presentationName="Aspectos de Mapeamento" briefDescription="Aspectos que identificam todos os métodos executados no caminho da tarefa e utiliza-se de um filtro para guardar apenas os métodos que tratam eventos do usuário, assim possibilitando que todos os passos necessários para concluir uma tarefa sejam capturados." shapeicon="workproducts/resources/aspects_artefato.png">
+            <methodElementProperty xmi:id="_29U8gP6WEeGWzL80hkLJyA" name="me_edited" value="true"/>
+            <presentation xmi:id="-NgHX-0CAEBmxCMzuF9T2JQ" href="uma://-NgHX-0CAEBmxCMzuF9T2JQ#-NgHX-0CAEBmxCMzuF9T2JQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_s-dbcP6dEeGWzL80hkLJyA" name="caminho_projeto_aplicacao" guid="_s-dbcP6dEeGWzL80hkLJyA" presentationName="Inserir caminho do projeto" briefDescription="Inserir o caminho do projeto da aplicação a ser mapeada." performedBy="_V8e38P55EeGWzL80hkLJyA" output="_myMYwP7lEeGIbqCwuZBwYg" additionallyPerformedBy="_8K5cQP9UEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_eORvMP6eEeGWzL80hkLJyA" name="me_edited" value="true"/>
+            <presentation xmi:id="-HcY3-tr3ejZAtK0jjBd95w" href="uma://-HcY3-tr3ejZAtK0jjBd95w#-HcY3-tr3ejZAtK0jjBd95w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VIjlYP7hEeGIbqCwuZBwYg" name="caminho_gerar_aspectos" guid="_VIjlYP7hEeGIbqCwuZBwYg" presentationName="Inserir caminho para os aspectos" briefDescription="Inserir o caminho para geração dos aspectos de mapeamento" performedBy="_V8e38P55EeGWzL80hkLJyA" output="_nT4moP6PEeGWzL80hkLJyA" additionallyPerformedBy="_8K5cQP9UEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_iM0F4P7hEeGIbqCwuZBwYg" name="me_edited" value="true"/>
+            <presentation xmi:id="-A82iPujFKnb19GC6W3fePA" href="uma://-A82iPujFKnb19GC6W3fePA#-A82iPujFKnb19GC6W3fePA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_uAscQP7kEeGIbqCwuZBwYg" name="realizar_weaver" guid="_uAscQP7kEeGIbqCwuZBwYg" presentationName="Realizar o Weaver" briefDescription="Efetuar o Weaver dos aspectos gerados ao código-fonte java da aplicação a ser mapeada." performedBy="_V8e38P55EeGWzL80hkLJyA" mandatoryInput="_nT4moP6PEeGWzL80hkLJyA" output="_V26_cP9eEeGYqaC-voeltA" additionallyPerformedBy="_8K5cQP9UEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_KXWv0P7lEeGIbqCwuZBwYg" name="me_edited" value="true"/>
+            <presentation xmi:id="-qqqHwoSvHg6ayy-dXOtqLg" href="uma://-qqqHwoSvHg6ayy-dXOtqLg#-qqqHwoSvHg6ayy-dXOtqLg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_myMYwP7lEeGIbqCwuZBwYg" name="caminho_aplicacao" guid="_myMYwP7lEeGIbqCwuZBwYg" presentationName="Caminho da aplicação a ser mapeada">
+            <methodElementProperty xmi:id="_swHIsP7lEeGIbqCwuZBwYg" name="me_edited" value="true"/>
+            <presentation xmi:id="-oCZP6y-rXjU5VWcCNXKAJw" href="uma://-oCZP6y-rXjU5VWcCNXKAJw#-oCZP6y-rXjU5VWcCNXKAJw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Mn4pkP9JEeGYqaC-voeltA" name="gerar_apk_aplicacao" guid="_Mn4pkP9JEeGYqaC-voeltA" presentationName="Gerar o .apk da aplicação a ser mapeada" briefDescription="Gerar o .apk do aplicativo que será mapeado para instalação no dispositivo móvel(smarthphones)." performedBy="_V8e38P55EeGWzL80hkLJyA" mandatoryInput="_V26_cP9eEeGYqaC-voeltA" output="_1BSwwP9eEeGYqaC-voeltA" additionallyPerformedBy="_8K5cQP9UEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_bzvIsP9JEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="-REOjGN-DIdklr_l9kua5tQ" href="uma://-REOjGN-DIdklr_l9kua5tQ#-REOjGN-DIdklr_l9kua5tQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_8K5cQP9UEeGYqaC-voeltA" name="desenvolvedor" guid="_8K5cQP9UEeGYqaC-voeltA" presentationName="Desenvolvedor" briefDescription="Analista de Sistemas ou Desenvolvedores da aplicação a ser avaliada" variabilityType="extends" variabilityBasedOnElement="_V8e38P55EeGWzL80hkLJyA">
+            <methodElementProperty xmi:id="_TknUsP9VEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="-3xUc-kwkNjct4WB0PKgUIQ" href="uma://-3xUc-kwkNjct4WB0PKgUIQ#-3xUc-kwkNjct4WB0PKgUIQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Hb8V4P9ZEeGYqaC-voeltA" name="projeto_aplicacao" guid="_Hb8V4P9ZEeGYqaC-voeltA" presentationName="Projeto da Aplicação" briefDescription="Projeto da Aplicação a ser mapeada" shapeicon="workproducts/resources/java_icon.JPG">
+            <methodElementProperty xmi:id="_NhKAoP9ZEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZMb3fhOERSlWvzrbUJJmoA" href="uma://-ZMb3fhOERSlWvzrbUJJmoA#-ZMb3fhOERSlWvzrbUJJmoA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_U-sB0P9cEeGYqaC-voeltA" name="aspecto_template_uilistener" guid="_U-sB0P9cEeGYqaC-voeltA" presentationName="Aspecto UIListener" briefDescription="Estrutura do aspecto UIListener ">
+            <methodElementProperty xmi:id="_aEIRoP9cEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="-bRJR3YtahIZolaFstLa5yg" href="uma://-bRJR3YtahIZolaFstLa5yg#-bRJR3YtahIZolaFstLa5yg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_V26_cP9eEeGYqaC-voeltA" name="arquivos_bytecode_aplicacao" guid="_V26_cP9eEeGYqaC-voeltA" presentationName="Arquivos .class da aplicação" briefDescription="São gerados os arquivos .class da aplicação com os aspectos de mapeamento">
+            <methodElementProperty xmi:id="_bHsVgP9eEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="-BzPDBNW3xQf0MREhW3mcgg" href="uma://-BzPDBNW3xQf0MREhW3mcgg#-BzPDBNW3xQf0MREhW3mcgg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1BSwwP9eEeGYqaC-voeltA" name="apk_aplicacao" guid="_1BSwwP9eEeGYqaC-voeltA" presentationName="Apk da aplicação a ser mapeada" briefDescription="Aplicativo que será embarcado no smartphone para ser realizado o mapeamento." shapeicon="workproducts/resources/apk_smarthphone.png">
+            <methodElementProperty xmi:id="_4bcjcP9eEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="-kL7Jwegi3sbejqZ1vOjyrQ" href="uma://-kL7Jwegi3sbejqZ1vOjyrQ#-kL7Jwegi3sbejqZ1vOjyrQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ONIKQP9jEeGYqaC-voeltA" name="instalar_aplicativo_smartphone" guid="_ONIKQP9jEeGYqaC-voeltA" presentationName="Instalar aplicativo no smartphone" mandatoryInput="_1BSwwP9eEeGYqaC-voeltA" output="_3YpJAP9mEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_bK-gwP9jEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="-9BI94_TvtnP7U2qSkWOYpg" href="uma://-9BI94_TvtnP7U2qSkWOYpg#-9BI94_TvtnP7U2qSkWOYpg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_3YpJAP9mEeGYqaC-voeltA" name="aplicativo_pronta_mapeado" guid="_3YpJAP9mEeGYqaC-voeltA" presentationName="Aplicação pronta para ser mapeada." briefDescription="Aplicativo instalado no smartphone.">
+            <methodElementProperty xmi:id="_SbRB0P9nEeGYqaC-voeltA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bCdhIP9nEeGYqaC-voeltA" name="realizar_mapeamento" guid="_bCdhIP9nEeGYqaC-voeltA" presentationName="Realizar o Mapeamento" briefDescription="Reaizar o mapeamento das tarefas." performedBy="_V8e38P55EeGWzL80hkLJyA" mandatoryInput="_3YpJAP9mEeGYqaC-voeltA" output="_YuaWsP9uEeGYqaC-voeltA" toolMentors="__5OioP9pEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_tiWj4P9nEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="-AsigDhuqdgrrD0dX7Ef9Jw" href="uma://-AsigDhuqdgrrD0dX7Ef9Jw#-AsigDhuqdgrrD0dX7Ef9Jw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="__5OioP9pEeGYqaC-voeltA" name="atd" guid="__5OioP9pEeGYqaC-voeltA" presentationName="Utilizar Automatic Task Description" shapeicon="guidances/toolmentors/resources/app_android.JPG">
+            <methodElementProperty xmi:id="_EsonQP9qEeGYqaC-voeltA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_YuaWsP9uEeGYqaC-voeltA" name="arquivo_xml_mapeamento" guid="_YuaWsP9uEeGYqaC-voeltA" presentationName="Arquivo XML de Mapeamento" briefDescription="É o arquivo que contém os métodos que foram capturados durante o mapeamento da tarefa juntamemte com os seus valores de referência.">
+            <methodElementProperty xmi:id="_J0nbcP9vEeGYqaC-voeltA" name="me_edited" value="true"/>
+            <presentation xmi:id="-HHu12ZXnr8lWGHxj1olc0w" href="uma://-HHu12ZXnr8lWGHxj1olc0w#-HHu12ZXnr8lWGHxj1olc0w"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z5PKEAHqEeKVhp71VvYcTQ" name="metricas_rastreabilidade" guid="_Z5PKEAHqEeKVhp71VvYcTQ" presentationName="Inserir as métricas de usabilidade" briefDescription="Tarefas e fases para gerar os aspectos para o aplicativo móvel que será utilizado pelo usuário final">
+          <methodElementProperty xmi:id="_sdAAMAHqEeKVhp71VvYcTQ" name="me_edited" value="true"/>
+          <methodElementProperty xmi:id="_s9feIAHqEeKVhp71VvYcTQ" name="pakage_supporting" value="false"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ulpuwAHqEeKVhp71VvYcTQ" name="acessar_ftp" guid="_ulpuwAHqEeKVhp71VvYcTQ" presentationName="Acessar o FTP com os mapeamentos" briefDescription="Acessar o FTP que armazena os arquivos XML contendo os métodos de interface com o usuário que foram mapeados" performedBy="_V8e38P55EeGWzL80hkLJyA" mandatoryInput="_gqr5oAHzEeKVhp71VvYcTQ" additionallyPerformedBy="_8K5cQP9UEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_wAuJIAHrEeKVhp71VvYcTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-GpXU3ZBhbNWfti1h2j-u6g" href="uma://-GpXU3ZBhbNWfti1h2j-u6g#-GpXU3ZBhbNWfti1h2j-u6g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_H5bqsAHsEeKVhp71VvYcTQ" name="gerar_aspectos_usabilidade_contexto" guid="_H5bqsAHsEeKVhp71VvYcTQ" presentationName="Gerar Aspectos de Usabilidade e Contexto" briefDescription="Gerar os Aspectos de Usabilidade e Contexto" performedBy="_V8e38P55EeGWzL80hkLJyA" mandatoryInput="_nT4moP6PEeGWzL80hkLJyA" output="_4Lji8AHzEeKVhp71VvYcTQ" additionallyPerformedBy="_8K5cQP9UEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_RYGIEAHtEeKVhp71VvYcTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-T8qgiUMH9vMal8hvIJTqAQ" href="uma://-T8qgiUMH9vMal8hvIJTqAQ#-T8qgiUMH9vMal8hvIJTqAQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_q-kroAHwEeKVhp71VvYcTQ" name="gerar_metricas_subjetivas" guid="_q-kroAHwEeKVhp71VvYcTQ" presentationName="Gerar Aspecto com Métricas Subjetivas" performedBy="_V8e38P55EeGWzL80hkLJyA" output="_jrVn8AT4EeKiaswEzVgXLg" additionallyPerformedBy="_8K5cQP9UEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_FAEeoAHxEeKVhp71VvYcTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-eW5uzDtle_OWmnylyA8F7g" href="uma://-eW5uzDtle_OWmnylyA8F7g#-eW5uzDtle_OWmnylyA8F7g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_e5jvsAHyEeKVhp71VvYcTQ" name="gerar_classe_controle" guid="_e5jvsAHyEeKVhp71VvYcTQ" presentationName="Gerar Classe de Controle" performedBy="_V8e38P55EeGWzL80hkLJyA" mandatoryInput="_3Hjn8AH2EeKVhp71VvYcTQ" output="_vcG_MAH2EeKVhp71VvYcTQ" additionallyPerformedBy="_8K5cQP9UEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_4olSoAHyEeKVhp71VvYcTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-E7lFJg-w8p7i_vAeitSDXQ" href="uma://-E7lFJg-w8p7i_vAeitSDXQ#-E7lFJg-w8p7i_vAeitSDXQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_gqr5oAHzEeKVhp71VvYcTQ" name="usuario_senha_ftp" guid="_gqr5oAHzEeKVhp71VvYcTQ" presentationName="Usuário e Senha FTP" briefDescription="Dados do usuário e senha do FTP que contém os arquivos XML de mapeamento">
+            <methodElementProperty xmi:id="_nJr9YAHzEeKVhp71VvYcTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-8s4oRXQm4eBXgBFJ2j4BZA" href="uma://-8s4oRXQm4eBXgBFJ2j4BZA#-8s4oRXQm4eBXgBFJ2j4BZA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4Lji8AHzEeKVhp71VvYcTQ" name="aspectos_usabilidade_contexto" guid="_4Lji8AHzEeKVhp71VvYcTQ" presentationName="Aspectos de Usabilidade e Contexto" briefDescription="Arquivos com código Orientado a Aspectos contendo as métricas de usabilidade e contexto.">
+            <methodElementProperty xmi:id="_Mm1UUAH0EeKVhp71VvYcTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-qPbRXZWqqPzfzwBicaoNlw" href="uma://-qPbRXZWqqPzfzwBicaoNlw#-qPbRXZWqqPzfzwBicaoNlw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vcG_MAH2EeKVhp71VvYcTQ" name="aspectos_classe_controle" guid="_vcG_MAH2EeKVhp71VvYcTQ" presentationName="Classe de Controle" briefDescription="Classe Java contendo dados de acesso para o FTP contendo os arquivos XML de mapeamento">
+            <methodElementProperty xmi:id="_zSk6cAH2EeKVhp71VvYcTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-dALjEqhuFSGe8smrTWXesQ" href="uma://-dALjEqhuFSGe8smrTWXesQ#-dALjEqhuFSGe8smrTWXesQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_3Hjn8AH2EeKVhp71VvYcTQ" name="dados_ftp" guid="_3Hjn8AH2EeKVhp71VvYcTQ" presentationName="Dados de acesso do FTP" briefDescription="Dados de acesso do FTP">
+            <methodElementProperty xmi:id="_5RGHUAH2EeKVhp71VvYcTQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-4waf1qC5YxmJFMEWxkNsTw" href="uma://-4waf1qC5YxmJFMEWxkNsTw#-4waf1qC5YxmJFMEWxkNsTw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Tj1noATyEeKiaswEzVgXLg" name="preparar_app_instrumentada" guid="_Tj1noATyEeKiaswEzVgXLg" presentationName="Preparar aplicaçao a ser instrumentada.">
+            <methodElementProperty xmi:id="_Yi3tcATyEeKiaswEzVgXLg" name="me_edited" value="true"/>
+            <presentation xmi:id="-b2WPFnBEDDNtkAufAxHRHQ" href="uma://-b2WPFnBEDDNtkAufAxHRHQ#-b2WPFnBEDDNtkAufAxHRHQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3n1vcAT0EeKiaswEzVgXLg" name="permissao_app_internet" guid="_3n1vcAT0EeKiaswEzVgXLg" presentationName="Aplicar Permissões" briefDescription="Aplicar permissões para que o aplicativo possa acessar internet." performedBy="_V8e38P55EeGWzL80hkLJyA" mandatoryInput="_jtrwUAUDEeKiaswEzVgXLg" additionallyPerformedBy="_8K5cQP9UEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_Og7AAAT1EeKiaswEzVgXLg" name="me_edited" value="true"/>
+            <presentation xmi:id="-gLvxcrV0w29d0lPQ6xs8DA" href="uma://-gLvxcrV0w29d0lPQ6xs8DA#-gLvxcrV0w29d0lPQ6xs8DA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2jFmgAT3EeKiaswEzVgXLg" name="gerar_apk_aplicacao" guid="_2jFmgAT3EeKiaswEzVgXLg" presentationName="Gerar o .apk da aplicação a ser instrumentada" briefDescription="Gerar o .apk do aplicativo que será instrumentada para instalação no dispositivo móvel(smarthphones)." performedBy="_V8e38P55EeGWzL80hkLJyA" mandatoryInput="_V18wAAT5EeKiaswEzVgXLg" output="_DY1UcAT5EeKiaswEzVgXLg" additionallyPerformedBy="_8K5cQP9UEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_2jiScAT3EeKiaswEzVgXLg" name="me_edited" value="true"/>
+            <presentation xmi:id="-738UcTiQXEGHLHwyu8EKuQ" href="uma://-738UcTiQXEGHLHwyu8EKuQ#-738UcTiQXEGHLHwyu8EKuQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-M4pcAT3EeKiaswEzVgXLg" name="instalar_aplicativo_smartphone" guid="_-M4pcAT3EeKiaswEzVgXLg" presentationName="Instalar aplicativo no smartphone" performedBy="_V8e38P55EeGWzL80hkLJyA" mandatoryInput="_DY1UcAT5EeKiaswEzVgXLg" output="_e282cAT5EeKiaswEzVgXLg" additionallyPerformedBy="_8K5cQP9UEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_-NfGYAT3EeKiaswEzVgXLg" name="me_edited" value="true"/>
+            <presentation xmi:id="-lnJ7E2dMnPIter3tMUSlCQ" href="uma://-lnJ7E2dMnPIter3tMUSlCQ#-lnJ7E2dMnPIter3tMUSlCQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jrVn8AT4EeKiaswEzVgXLg" name="aspectos_metricas_subjetivas" guid="_jrVn8AT4EeKiaswEzVgXLg" presentationName="Aspectos Métricas Subjetivas" briefDescription="Arquivos com código Orientado a Aspectos contendo as métricas subjetivas.">
+            <methodElementProperty xmi:id="_n_50cAT4EeKiaswEzVgXLg" name="me_edited" value="true"/>
+            <presentation xmi:id="-2m4D7VYzZYVWu2rsQNuk4Q" href="uma://-2m4D7VYzZYVWu2rsQNuk4Q#-2m4D7VYzZYVWu2rsQNuk4Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_DY1UcAT5EeKiaswEzVgXLg" name="apk_aplicacao_instrumentacao" guid="_DY1UcAT5EeKiaswEzVgXLg" presentationName="Apk da aplicação a ser instrumentada." briefDescription="Aplicativo que será embarcado no smartphone para ser instrumentada pelos usuários." shapeicon="workproducts/resources/apk_smarthphone.png">
+            <methodElementProperty xmi:id="_DZSAYAT5EeKiaswEzVgXLg" name="me_edited" value="true"/>
+            <presentation xmi:id="-We7ck9rF-mtUp91KRV--SQ" href="uma://-We7ck9rF-mtUp91KRV--SQ#-We7ck9rF-mtUp91KRV--SQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_V18wAAT5EeKiaswEzVgXLg" name="arquivos_bytecode_aplicacao" guid="_V18wAAT5EeKiaswEzVgXLg" presentationName="Arquivos .class da aplicação" briefDescription="São gerados os arquivos .class da aplicação com os aspectos de instrumentação.">
+            <methodElementProperty xmi:id="_V2jM8AT5EeKiaswEzVgXLg" name="me_edited" value="true"/>
+            <presentation xmi:id="-relFasfQynTOGYkV29QNBQ" href="uma://-relFasfQynTOGYkV29QNBQ#-relFasfQynTOGYkV29QNBQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_e282cAT5EeKiaswEzVgXLg" name="aplicativo_pronto_instrumentacao" guid="_e282cAT5EeKiaswEzVgXLg" presentationName="Aplicação pronto para ser instrumentado." briefDescription="Aplicativo instalado no smartphone.">
+            <methodElementProperty xmi:id="_e3jTYAT5EeKiaswEzVgXLg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jtrwUAUDEeKiaswEzVgXLg" name="projeto_aplicacao_instrumentada" guid="_jtrwUAUDEeKiaswEzVgXLg" presentationName="Projeto da Aplicação" briefDescription="Projeto da Aplicação a ser instrumentada&#xD;&#xA;" shapeicon="workproducts/resources/java_icon.JPG" variabilityType="extends" variabilityBasedOnElement="_Hb8V4P9ZEeGYqaC-voeltA">
+            <methodElementProperty xmi:id="_juIcQAUDEeKiaswEzVgXLg" name="me_edited" value="true"/>
+            <presentation xmi:id="-FiYxFmpDsX-EunlC7SAB1A" href="uma://-FiYxFmpDsX-EunlC7SAB1A#-FiYxFmpDsX-EunlC7SAB1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QnJ5cAUFEeKiaswEzVgXLg" name="enviar_arquivo_xml" guid="_QnJ5cAUFEeKiaswEzVgXLg" presentationName="Enviar arquivo XML com os valores das métricas." briefDescription="Enviar arquivo XML automaticamente para o servidor FTP com os valores das métricas após a realização de cada tarefa." performedBy="_iHRhQAUFEeKiaswEzVgXLg" mandatoryInput="_e282cAT5EeKiaswEzVgXLg" output="_4O7U4AUFEeKiaswEzVgXLg">
+            <methodElementProperty xmi:id="_UTMGUAUFEeKiaswEzVgXLg" name="me_edited" value="true"/>
+            <presentation xmi:id="-j3qSPa5ZGlXic9xuplWAnQ" href="uma://-j3qSPa5ZGlXic9xuplWAnQ#-j3qSPa5ZGlXic9xuplWAnQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_iHRhQAUFEeKiaswEzVgXLg" name="usuario_final" guid="_iHRhQAUFEeKiaswEzVgXLg" presentationName="Usuário comum" briefDescription="Usuário comum que irá avaliar a aplicação.">
+            <methodElementProperty xmi:id="_nQSpgAUFEeKiaswEzVgXLg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4O7U4AUFEeKiaswEzVgXLg" name="arquivo_xml_valores_metricas" guid="_4O7U4AUFEeKiaswEzVgXLg" presentationName="Arquivo XML com os valores das métricas." briefDescription="Arquivo XML contendo os valores obtidos na instrumentação realizada pelo usuário final.">
+            <methodElementProperty xmi:id="_7dwoYAUFEeKiaswEzVgXLg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FEhHPf53EeGWzL80hkLJyA" name="CapabilityPatterns" guid="_FEhHPf53EeGWzL80hkLJyA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FEhHPv53EeGWzL80hkLJyA" name="DeliveryProcesses" guid="_FEhHPv53EeGWzL80hkLJyA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_eaRwgP9yEeGYqaC-voeltA" href="uma://_eaRwgP9yEeGYqaC-voeltA#_eaRwgP9yEeGYqaC-voeltA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FEhHP_53EeGWzL80hkLJyA" name="ProcessContributions" guid="_FEhHP_53EeGWzL80hkLJyA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>
