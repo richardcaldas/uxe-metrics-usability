@@ -6,8 +6,11 @@
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_Dg_kUAhOEeK4B97u5O_d4A" name="instrumentacao_tarefas" guid="_Dg_kUAhOEeK4B97u5O_d4A">
     <methodElementProperty xmi:id="_IoGyoAhPEeK4B97u5O_d4A" name="me_edited" value="true"/>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_rrg1kAhQEeK4B97u5O_d4A" name="gerar_aspectos_rastreabilidade" guid="_rrg1kAhQEeK4B97u5O_d4A">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_rrg1kQhQEeK4B97u5O_d4A" name="gerar_aspectos_rastreabilidade" guid="_rrg1kQhQEeK4B97u5O_d4A" presentationName="Gerar Aspectos de Rastreabilidade" superActivities="_Dg_kUQhOEeK4B97u5O_d4A" breakdownElements="_eNaxYAhTEeK4B97u5O_d4A _eNuTYAhTEeK4B97u5O_d4A _eNuTYQhTEeK4B97u5O_d4A _eN3dUAhTEeK4B97u5O_d4A _jeMHcAhTEeK4B97u5O_d4A _jeozYAhTEeK4B97u5O_d4A _jeozYQhTEeK4B97u5O_d4A _pxHeEAhTEeK4B97u5O_d4A _pxtT8AhTEeK4B97u5O_d4A _zuJH4AhTEeK4B97u5O_d4A _zuu9wAhTEeK4B97u5O_d4A _zuu9wQhTEeK4B97u5O_d4A"/>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_eNaxYAhTEeK4B97u5O_d4A" name="download_arquivos_xml_mapeamento" guid="_eNaxYAhTEeK4B97u5O_d4A" presentationName="Download dos arquivos XML com Mapeamento" superActivities="_rrg1kQhQEeK4B97u5O_d4A" additionallyPerformedBy="_eNuTYQhTEeK4B97u5O_d4A" mandatoryInput="_eN3dUAhTEeK4B97u5O_d4A" performedPrimarilyBy="_eNuTYAhTEeK4B97u5O_d4A">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_918PcAnhEeKrp8glGMPnFg" name="Novo Atividade" guid="_918PcAnhEeKrp8glGMPnFg">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_918PcQnhEeKrp8glGMPnFg" name="Novo Atividade" guid="_918PcQnhEeKrp8glGMPnFg" presentationName="Gerar Aspectos de Rastreabilidade" superActivities="_rrg1kQhQEeK4B97u5O_d4A"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_rrg1kQhQEeK4B97u5O_d4A" name="gerar_aspectos_rastreabilidade" guid="_rrg1kQhQEeK4B97u5O_d4A" presentationName="Gerar Aspectos de Rastreabilidade" superActivities="_Dg_kUQhOEeK4B97u5O_d4A" breakdownElements="_eNaxYAhTEeK4B97u5O_d4A _eNuTYAhTEeK4B97u5O_d4A _eNuTYQhTEeK4B97u5O_d4A _eN3dUAhTEeK4B97u5O_d4A _jeMHcAhTEeK4B97u5O_d4A _jeozYAhTEeK4B97u5O_d4A _jeozYQhTEeK4B97u5O_d4A _pxHeEAhTEeK4B97u5O_d4A _pxtT8AhTEeK4B97u5O_d4A _zuJH4AhTEeK4B97u5O_d4A _zuu9wAhTEeK4B97u5O_d4A _zuu9wQhTEeK4B97u5O_d4A _918PcQnhEeKrp8glGMPnFg"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_eNaxYAhTEeK4B97u5O_d4A" name="download_arquivos_xml_mapeamento" guid="_eNaxYAhTEeK4B97u5O_d4A" presentationName="Download dos arquivos XML com Mapeamento" superActivities="_rrg1kQhQEeK4B97u5O_d4A" linkToPredecessor="_NnhcYQnjEeKrp8glGMPnFg" additionallyPerformedBy="_eNuTYQhTEeK4B97u5O_d4A" mandatoryInput="_eN3dUAhTEeK4B97u5O_d4A" performedPrimarilyBy="_eNuTYAhTEeK4B97u5O_d4A">
         <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_ulpuwAHqEeKVhp71VvYcTQ"/>
         <selectedSteps href="uma://-GpXU3ZBhbNWfti1h2j-u6g#_GByHUALCEeKzw4aHyYUzag"/>
         <selectedSteps href="uma://-GpXU3ZBhbNWfti1h2j-u6g#_0J2nAALCEeKzw4aHyYUzag"/>
@@ -22,7 +25,7 @@
       <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_eN3dUAhTEeK4B97u5O_d4A" name="usuario_senha_ftp" guid="_eN3dUAhTEeK4B97u5O_d4A" presentationName="Usuário e Senha FTP" isPlanned="false" superActivities="_rrg1kQhQEeK4B97u5O_d4A">
         <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_gqr5oAHzEeKVhp71VvYcTQ"/>
       </processElements>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_jeMHcAhTEeK4B97u5O_d4A" name="gerar_aspectos_usabilidade_contexto" guid="_jeMHcAhTEeK4B97u5O_d4A" presentationName="Gerar Aspectos de Usabilidade e Contexto" superActivities="_rrg1kQhQEeK4B97u5O_d4A" additionallyPerformedBy="_eNuTYQhTEeK4B97u5O_d4A" mandatoryInput="_jeozYAhTEeK4B97u5O_d4A" output="_jeozYQhTEeK4B97u5O_d4A" performedPrimarilyBy="_eNuTYAhTEeK4B97u5O_d4A">
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_jeMHcAhTEeK4B97u5O_d4A" name="gerar_aspectos_usabilidade_contexto" guid="_jeMHcAhTEeK4B97u5O_d4A" presentationName="Gerar Aspectos de Usabilidade e Contexto" superActivities="_rrg1kQhQEeK4B97u5O_d4A" linkToPredecessor="_Om2ycQnjEeKrp8glGMPnFg" additionallyPerformedBy="_eNuTYQhTEeK4B97u5O_d4A" mandatoryInput="_jeozYAhTEeK4B97u5O_d4A" output="_jeozYQhTEeK4B97u5O_d4A" performedPrimarilyBy="_eNuTYAhTEeK4B97u5O_d4A">
         <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_H5bqsAHsEeKVhp71VvYcTQ"/>
         <selectedSteps href="uma://-T8qgiUMH9vMal8hvIJTqAQ#_OldtsALEEeKzw4aHyYUzag"/>
         <selectedSteps href="uma://-T8qgiUMH9vMal8hvIJTqAQ#_gxjDoALEEeKzw4aHyYUzag"/>
@@ -38,13 +41,13 @@
       <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_jeozYQhTEeK4B97u5O_d4A" name="aspectos_usabilidade_contexto" guid="_jeozYQhTEeK4B97u5O_d4A" presentationName="Aspectos de Usabilidade e Contexto" isPlanned="false" superActivities="_rrg1kQhQEeK4B97u5O_d4A">
         <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_4Lji8AHzEeKVhp71VvYcTQ"/>
       </processElements>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_pxHeEAhTEeK4B97u5O_d4A" name="gerar_aspectos_metricas_subjetivas" guid="_pxHeEAhTEeK4B97u5O_d4A" presentationName="Gerar Aspecto com Métricas Subjetivas" superActivities="_rrg1kQhQEeK4B97u5O_d4A" additionallyPerformedBy="_eNuTYQhTEeK4B97u5O_d4A" output="_pxtT8AhTEeK4B97u5O_d4A" performedPrimarilyBy="_eNuTYAhTEeK4B97u5O_d4A">
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_pxHeEAhTEeK4B97u5O_d4A" name="gerar_aspectos_metricas_subjetivas" guid="_pxHeEAhTEeK4B97u5O_d4A" presentationName="Gerar Aspecto com Métricas Subjetivas" superActivities="_rrg1kQhQEeK4B97u5O_d4A" linkToPredecessor="_PsvccQnjEeKrp8glGMPnFg" additionallyPerformedBy="_eNuTYQhTEeK4B97u5O_d4A" output="_pxtT8AhTEeK4B97u5O_d4A" performedPrimarilyBy="_eNuTYAhTEeK4B97u5O_d4A">
         <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_q-kroAHwEeKVhp71VvYcTQ"/>
       </processElements>
       <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_pxtT8AhTEeK4B97u5O_d4A" name="aspectos_metricas_subjetivas" guid="_pxtT8AhTEeK4B97u5O_d4A" presentationName="Aspectos Métricas Subjetivas" isPlanned="false" superActivities="_rrg1kQhQEeK4B97u5O_d4A">
         <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_jrVn8AT4EeKiaswEzVgXLg"/>
       </processElements>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zuJH4AhTEeK4B97u5O_d4A" name="gerar_classe_controle" guid="_zuJH4AhTEeK4B97u5O_d4A" presentationName="Gerar Classe de Controle" superActivities="_rrg1kQhQEeK4B97u5O_d4A" additionallyPerformedBy="_eNuTYQhTEeK4B97u5O_d4A" mandatoryInput="_zuu9wAhTEeK4B97u5O_d4A" output="_zuu9wQhTEeK4B97u5O_d4A" performedPrimarilyBy="_eNuTYAhTEeK4B97u5O_d4A">
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zuJH4AhTEeK4B97u5O_d4A" name="gerar_classe_controle" guid="_zuJH4AhTEeK4B97u5O_d4A" presentationName="Gerar Classe de Controle" superActivities="_rrg1kQhQEeK4B97u5O_d4A" linkToPredecessor="_V-RkkQnmEeKrp8glGMPnFg" additionallyPerformedBy="_eNuTYQhTEeK4B97u5O_d4A" mandatoryInput="_zuu9wAhTEeK4B97u5O_d4A" output="_zuu9wQhTEeK4B97u5O_d4A" performedPrimarilyBy="_eNuTYAhTEeK4B97u5O_d4A">
         <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_e5jvsAHyEeKVhp71VvYcTQ"/>
         <selectedSteps href="uma://-E7lFJg-w8p7i_vAeitSDXQ#_OqioUATwEeKiaswEzVgXLg"/>
         <selectedSteps href="uma://-E7lFJg-w8p7i_vAeitSDXQ#_9K5sMATwEeKiaswEzVgXLg"/>
@@ -58,10 +61,17 @@
       <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_zuu9wQhTEeK4B97u5O_d4A" name="aspectos_classe_controle" guid="_zuu9wQhTEeK4B97u5O_d4A" presentationName="Classe de Controle" isPlanned="false" superActivities="_rrg1kQhQEeK4B97u5O_d4A">
         <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_vcG_MAH2EeKVhp71VvYcTQ"/>
       </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_NnhcYQnjEeKrp8glGMPnFg" guid="_NnhcYQnjEeKrp8glGMPnFg" pred="_918PcQnhEeKrp8glGMPnFg"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Om2ycQnjEeKrp8glGMPnFg" guid="_Om2ycQnjEeKrp8glGMPnFg" pred="_eNaxYAhTEeK4B97u5O_d4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_PsvccQnjEeKrp8glGMPnFg" guid="_PsvccQnjEeKrp8glGMPnFg" pred="_jeMHcAhTEeK4B97u5O_d4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_V-RkkQnmEeKrp8glGMPnFg" guid="_V-RkkQnmEeKrp8glGMPnFg" pred="_pxHeEAhTEeK4B97u5O_d4A"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_eiBS8AhUEeK4B97u5O_d4A" name="realizar_instrumentacao" guid="_eiBS8AhUEeK4B97u5O_d4A">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_eiBS8QhUEeK4B97u5O_d4A" name="realizar_instrumentacao" guid="_eiBS8QhUEeK4B97u5O_d4A" presentationName="Realizar a Instrumentação" superActivities="_Dg_kUQhOEeK4B97u5O_d4A" linkToPredecessor="_xdT7cQhYEeK4B97u5O_d4A" breakdownElements="_AgbcsAhWEeK4B97u5O_d4A _CTnRkAhWEeK4B97u5O_d4A _CTnRkQhWEeK4B97u5O_d4A _CTnRkghWEeK4B97u5O_d4A _CTnRkwhWEeK4B97u5O_d4A _Dr-LoAhWEeK4B97u5O_d4A _DstygAhWEeK4B97u5O_d4A _DstygQhWEeK4B97u5O_d4A _EiN3IAhWEeK4B97u5O_d4A _EiN3IQhWEeK4B97u5O_d4A _76VwcAhXEeK4B97u5O_d4A _77FXUAhXEeK4B97u5O_d4A _77YSQAhXEeK4B97u5O_d4A"/>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_AgbcsAhWEeK4B97u5O_d4A" name="preparar_app_instrumentada" guid="_AgbcsAhWEeK4B97u5O_d4A" presentationName="Preparar aplicação a ser instrumentada." superActivities="_eiBS8QhUEeK4B97u5O_d4A">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_wL_OoQnmEeKrp8glGMPnFg" name="Novo Atividade" guid="_wL_OoQnmEeKrp8glGMPnFg">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_wL_OognmEeKrp8glGMPnFg" name="Novo Atividade" guid="_wL_OognmEeKrp8glGMPnFg" presentationName="Realizar a Instrumentação" superActivities="_eiBS8QhUEeK4B97u5O_d4A"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_eiBS8QhUEeK4B97u5O_d4A" name="realizar_instrumentacao" guid="_eiBS8QhUEeK4B97u5O_d4A" presentationName="Realizar a Instrumentação" superActivities="_Dg_kUQhOEeK4B97u5O_d4A" linkToPredecessor="_xdT7cQhYEeK4B97u5O_d4A" breakdownElements="_AgbcsAhWEeK4B97u5O_d4A _CTnRkAhWEeK4B97u5O_d4A _CTnRkQhWEeK4B97u5O_d4A _CTnRkghWEeK4B97u5O_d4A _CTnRkwhWEeK4B97u5O_d4A _Dr-LoAhWEeK4B97u5O_d4A _DstygAhWEeK4B97u5O_d4A _DstygQhWEeK4B97u5O_d4A _EiN3IAhWEeK4B97u5O_d4A _EiN3IQhWEeK4B97u5O_d4A _76VwcAhXEeK4B97u5O_d4A _77FXUAhXEeK4B97u5O_d4A _77YSQAhXEeK4B97u5O_d4A _wL_OognmEeKrp8glGMPnFg"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_AgbcsAhWEeK4B97u5O_d4A" name="preparar_app_instrumentada" guid="_AgbcsAhWEeK4B97u5O_d4A" presentationName="Preparar aplicação a ser instrumentada." superActivities="_eiBS8QhUEeK4B97u5O_d4A" linkToPredecessor="_zkpzkQnmEeKrp8glGMPnFg">
         <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_Tj1noATyEeKiaswEzVgXLg"/>
         <selectedSteps href="uma://-b2WPFnBEDDNtkAufAxHRHQ#_lfkNYATyEeKiaswEzVgXLg"/>
         <selectedSteps href="uma://-b2WPFnBEDDNtkAufAxHRHQ#_DPfZ8ATzEeKiaswEzVgXLg"/>
@@ -70,7 +80,7 @@
         <selectedSteps href="uma://-b2WPFnBEDDNtkAufAxHRHQ#_CaU3EAT0EeKiaswEzVgXLg"/>
         <selectedSteps href="uma://-b2WPFnBEDDNtkAufAxHRHQ#_mAHq0AT0EeKiaswEzVgXLg"/>
       </processElements>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_CTnRkAhWEeK4B97u5O_d4A" name="permissao_app_internet" guid="_CTnRkAhWEeK4B97u5O_d4A" presentationName="Aplicar Permissões de acesso a internet" superActivities="_eiBS8QhUEeK4B97u5O_d4A" additionallyPerformedBy="_CTnRkghWEeK4B97u5O_d4A" mandatoryInput="_CTnRkwhWEeK4B97u5O_d4A" performedPrimarilyBy="_CTnRkQhWEeK4B97u5O_d4A">
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_CTnRkAhWEeK4B97u5O_d4A" name="permissao_app_internet" guid="_CTnRkAhWEeK4B97u5O_d4A" presentationName="Aplicar Permissões de acesso a internet" superActivities="_eiBS8QhUEeK4B97u5O_d4A" linkToPredecessor="_glnWsQnmEeKrp8glGMPnFg" additionallyPerformedBy="_CTnRkghWEeK4B97u5O_d4A" mandatoryInput="_CTnRkwhWEeK4B97u5O_d4A" performedPrimarilyBy="_CTnRkQhWEeK4B97u5O_d4A">
         <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_3n1vcAT0EeKiaswEzVgXLg"/>
         <selectedSteps href="uma://-gLvxcrV0w29d0lPQ6xs8DA#_SBLasAT1EeKiaswEzVgXLg"/>
         <selectedSteps href="uma://-gLvxcrV0w29d0lPQ6xs8DA#_oThbYAT1EeKiaswEzVgXLg"/>
@@ -87,7 +97,7 @@
       <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_CTnRkwhWEeK4B97u5O_d4A" name="projeto_aplicacao_instrumentada" guid="_CTnRkwhWEeK4B97u5O_d4A" presentationName="Projeto da Aplicação" isPlanned="false" superActivities="_eiBS8QhUEeK4B97u5O_d4A">
         <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_jtrwUAUDEeKiaswEzVgXLg"/>
       </processElements>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Dr-LoAhWEeK4B97u5O_d4A" name="gerar_apk_aplicacao" guid="_Dr-LoAhWEeK4B97u5O_d4A" presentationName="Gerar o .apk da aplicação a ser instrumentada" superActivities="_eiBS8QhUEeK4B97u5O_d4A" additionallyPerformedBy="_CTnRkghWEeK4B97u5O_d4A" mandatoryInput="_DstygAhWEeK4B97u5O_d4A" output="_DstygQhWEeK4B97u5O_d4A" performedPrimarilyBy="_CTnRkQhWEeK4B97u5O_d4A">
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Dr-LoAhWEeK4B97u5O_d4A" name="gerar_apk_aplicacao" guid="_Dr-LoAhWEeK4B97u5O_d4A" presentationName="Gerar o .apk da aplicação a ser instrumentada" superActivities="_eiBS8QhUEeK4B97u5O_d4A" linkToPredecessor="_hRHx0QnmEeKrp8glGMPnFg" additionallyPerformedBy="_CTnRkghWEeK4B97u5O_d4A" mandatoryInput="_DstygAhWEeK4B97u5O_d4A" output="_DstygQhWEeK4B97u5O_d4A" performedPrimarilyBy="_CTnRkQhWEeK4B97u5O_d4A">
         <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_2jFmgAT3EeKiaswEzVgXLg"/>
         <selectedSteps href="uma://-738UcTiQXEGHLHwyu8EKuQ#_2jFmhQT3EeKiaswEzVgXLg"/>
         <selectedSteps href="uma://-738UcTiQXEGHLHwyu8EKuQ#_2jFmggT3EeKiaswEzVgXLg"/>
@@ -102,7 +112,7 @@
       <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_DstygQhWEeK4B97u5O_d4A" name="apk_aplicacao_instrumentacao" guid="_DstygQhWEeK4B97u5O_d4A" presentationName="Apk da aplicação a ser instrumentada." isPlanned="false" superActivities="_eiBS8QhUEeK4B97u5O_d4A">
         <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_DY1UcAT5EeKiaswEzVgXLg"/>
       </processElements>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EiN3IAhWEeK4B97u5O_d4A" name="instalar_aplicativo_smartphone" guid="_EiN3IAhWEeK4B97u5O_d4A" presentationName="Instalar aplicativo no smartphone" superActivities="_eiBS8QhUEeK4B97u5O_d4A" additionallyPerformedBy="_CTnRkghWEeK4B97u5O_d4A" mandatoryInput="_DstygQhWEeK4B97u5O_d4A" output="_EiN3IQhWEeK4B97u5O_d4A" performedPrimarilyBy="_CTnRkQhWEeK4B97u5O_d4A">
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EiN3IAhWEeK4B97u5O_d4A" name="instalar_aplicativo_smartphone" guid="_EiN3IAhWEeK4B97u5O_d4A" presentationName="Instalar aplicativo no smartphone" superActivities="_eiBS8QhUEeK4B97u5O_d4A" linkToPredecessor="_h_nPgQnmEeKrp8glGMPnFg" additionallyPerformedBy="_CTnRkghWEeK4B97u5O_d4A" mandatoryInput="_DstygQhWEeK4B97u5O_d4A" output="_EiN3IQhWEeK4B97u5O_d4A" performedPrimarilyBy="_CTnRkQhWEeK4B97u5O_d4A">
         <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_-M4pcAT3EeKiaswEzVgXLg"/>
         <selectedSteps href="uma://-lnJ7E2dMnPIter3tMUSlCQ#_-M4pdAT3EeKiaswEzVgXLg"/>
         <selectedSteps href="uma://-lnJ7E2dMnPIter3tMUSlCQ#_-NCacQT3EeKiaswEzVgXLg"/>
@@ -115,7 +125,7 @@
       <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_EiN3IQhWEeK4B97u5O_d4A" name="aplicativo_pronto_instrumentacao" guid="_EiN3IQhWEeK4B97u5O_d4A" presentationName="Aplicação pronto para ser instrumentado." isPlanned="false" superActivities="_eiBS8QhUEeK4B97u5O_d4A">
         <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_e282cAT5EeKiaswEzVgXLg"/>
       </processElements>
-      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_76VwcAhXEeK4B97u5O_d4A" name="realizar_instrumentacao" guid="_76VwcAhXEeK4B97u5O_d4A" presentationName="Executar a instrumentação" superActivities="_eiBS8QhUEeK4B97u5O_d4A" additionallyPerformedBy="_CTnRkghWEeK4B97u5O_d4A" mandatoryInput="_EiN3IQhWEeK4B97u5O_d4A" output="_77YSQAhXEeK4B97u5O_d4A" performedPrimarilyBy="_77FXUAhXEeK4B97u5O_d4A">
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_76VwcAhXEeK4B97u5O_d4A" name="realizar_instrumentacao" guid="_76VwcAhXEeK4B97u5O_d4A" presentationName="Executar a instrumentação" superActivities="_eiBS8QhUEeK4B97u5O_d4A" linkToPredecessor="_imqBYQnmEeKrp8glGMPnFg" additionallyPerformedBy="_CTnRkghWEeK4B97u5O_d4A" mandatoryInput="_EiN3IQhWEeK4B97u5O_d4A" output="_77YSQAhXEeK4B97u5O_d4A" performedPrimarilyBy="_77FXUAhXEeK4B97u5O_d4A">
         <Task href="uma://_FEhHMP53EeGWzL80hkLJyA#_PSWY4AhWEeK4B97u5O_d4A"/>
         <selectedSteps href="uma://-GoluKQV0yZcYKoGDGzZ9Qw#_y4cHkAhWEeK4B97u5O_d4A"/>
         <selectedSteps href="uma://-GoluKQV0yZcYKoGDGzZ9Qw#_ICEMsAhXEeK4B97u5O_d4A"/>
@@ -128,6 +138,11 @@
         <WorkProduct href="uma://_FEhHMP53EeGWzL80hkLJyA#_4O7U4AUFEeKiaswEzVgXLg"/>
       </processElements>
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_xdT7cQhYEeK4B97u5O_d4A" guid="_xdT7cQhYEeK4B97u5O_d4A" pred="_rrg1kQhQEeK4B97u5O_d4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_glnWsQnmEeKrp8glGMPnFg" guid="_glnWsQnmEeKrp8glGMPnFg" pred="_AgbcsAhWEeK4B97u5O_d4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_hRHx0QnmEeKrp8glGMPnFg" guid="_hRHx0QnmEeKrp8glGMPnFg" pred="_CTnRkAhWEeK4B97u5O_d4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_h_nPgQnmEeKrp8glGMPnFg" guid="_h_nPgQnmEeKrp8glGMPnFg" pred="_Dr-LoAhWEeK4B97u5O_d4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_imqBYQnmEeKrp8glGMPnFg" guid="_imqBYQnmEeKrp8glGMPnFg" pred="_EiN3IAhWEeK4B97u5O_d4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_zkpzkQnmEeKrp8glGMPnFg" guid="_zkpzkQnmEeKrp8glGMPnFg" pred="_wL_OognmEeKrp8glGMPnFg"/>
     </childPackages>
     <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_Dg_kUQhOEeK4B97u5O_d4A" name="instrumentacao_tarefas" guid="_Dg_kUQhOEeK4B97u5O_d4A" presentationName="Instrumentacao das Tarefas após o Mapeamento" breakdownElements="_rrg1kQhQEeK4B97u5O_d4A _eiBS8QhUEeK4B97u5O_d4A">
       <presentation xmi:id="-QtMndmP9KU1s3x4ZRA13kA" href="uma://-QtMndmP9KU1s3x4ZRA13kA#-QtMndmP9KU1s3x4ZRA13kA"/>
